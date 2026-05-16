@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T16:08:09Z",
+  "generated_at": "2026-05-16T16:23:32Z",
   "shelf": "to-read",
   "books": [
     {
@@ -7,7 +7,7 @@
       "author": "László Krasznahorkai",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/8585915776?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700734418l/202574604._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700734418l/202574604.jpg",
       "library": [
         {
           "language": "Deutsch, Deutsch",
@@ -28,7 +28,7 @@
       "author": "David Szalay",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/8585322369?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1717908661l/214152261._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1717908661l/214152261.jpg",
       "library": [
         {
           "language": "Englisch",
@@ -47,7 +47,7 @@
       "author": "Ben Lerner",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/8585287743?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1773302946l/249591782._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1773302946l/249591782.jpg",
       "library": [
         {
           "language": "",
@@ -64,7 +64,7 @@
       "author": "Madeline Cash",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/8585249147?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1761783887l/243195002._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1761783887l/243195002.jpg",
       "library": [
         {
           "language": "",
@@ -81,7 +81,7 @@
       "author": "Liu Cixin",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/8564529058?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428227l/20518872._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428227l/20518872.jpg",
       "library": [
         {
           "language": "Deutsch",
@@ -100,7 +100,7 @@
       "author": "Claire Keegan",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/8508050474?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1734631773l/58662236._SX50_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1734631773l/58662236.jpg",
       "library": [
         {
           "language": "Englisch",
@@ -119,7 +119,7 @@
       "author": "Richard Russo",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/8506905024?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403184884l/187020._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403184884l/187020.jpg",
       "library": [
         {
           "language": "",
@@ -138,7 +138,7 @@
       "author": "qntm",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/8481182825?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597056415l/54870256._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597056415l/54870256.jpg",
       "library": [
         {
           "language": "",
@@ -155,7 +155,7 @@
       "author": "Oscar Wilde",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/8397224464?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546103428l/5297._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546103428l/5297.jpg",
       "library": [
         {
           "language": "Englisch",
@@ -184,7 +184,7 @@
       "author": "Markus Zusak",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/8397224188?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522157426l/19063._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522157426l/19063.jpg",
       "library": [
         {
           "language": "Englisch",
@@ -203,7 +203,7 @@
       "author": "J.D. Salinger",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/8397224137?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398034300l/5107._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398034300l/5107.jpg",
       "library": [
         {
           "language": "",
@@ -222,7 +222,7 @@
       "author": "Antoine de Saint-Exupéry",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/8397224116?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367545443l/157993._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367545443l/157993.jpg",
       "library": [
         {
           "language": "Englisch",
@@ -251,7 +251,7 @@
       "author": "Harper Lee",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/8397224024?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553383690l/2657._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553383690l/2657.jpg",
       "library": [
         {
           "language": "Englisch",
@@ -281,7 +281,7 @@
       "author": "R.F. Kuang",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/8397223894?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677361825l/57945316._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677361825l/57945316.jpg",
       "library": [
         {
           "language": "",
@@ -298,7 +298,7 @@
       "author": "Lukas Gage",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/8397222518?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738047856l/223777846._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738047856l/223777846.jpg",
       "library": [
         {
           "language": "Deutsch",
@@ -317,7 +317,7 @@
       "author": "Kara Swisher",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/8397222219?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1691562956l/195791688._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1691562956l/195791688.jpg",
       "library": [
         {
           "language": "",
@@ -334,7 +334,7 @@
       "author": "Sarah Wynn-Williams",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/8397222122?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1742029683l/223436601._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1742029683l/223436601.jpg",
       "library": [
         {
           "language": "",
@@ -351,7 +351,7 @@
       "author": "John  Green",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/8397222060?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1729825992l/220341389._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1729825992l/220341389.jpg",
       "library": [
         {
           "language": "Englisch",
@@ -370,7 +370,7 @@
       "author": "Fredrik Backman",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/8397221472?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1734718045l/217203110._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1734718045l/217203110.jpg",
       "library": [
         {
           "language": "Englisch",
@@ -389,7 +389,7 @@
       "author": "Toni Morrison",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/8397219615?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632283992l/11334._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632283992l/11334.jpg",
       "library": [
         {
           "language": "",
@@ -406,7 +406,7 @@
       "author": "Fyodor Dostoevsky",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/8397219586?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1681758580l/62585959._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1681758580l/62585959.jpg",
       "library": [
         {
           "language": "",
@@ -423,7 +423,7 @@
       "author": "Alexandre Dumas",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/8397219433?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724863997l/7126._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724863997l/7126.jpg",
       "library": [
         {
           "language": "",
@@ -443,7 +443,7 @@
       "author": "Colson Whitehead",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/8253395445?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593115396l/42270835._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593115396l/42270835.jpg",
       "library": [
         {
           "language": "Englisch",
@@ -472,7 +472,7 @@
       "author": "Solvej Balle",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/8247441688?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1769272700l/208511270._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1769272700l/208511270.jpg",
       "library": [
         {
           "language": "Englisch",
@@ -491,7 +491,7 @@
       "author": "Tahsim Durgun",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/8247440782?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1740319477l/228308589._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1740319477l/228308589.jpg",
       "library": [
         {
           "language": "Deutsch",
@@ -510,7 +510,7 @@
       "author": "Alexander Schnickmann",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/7922807483?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1718613025l/214892318._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1718613025l/214892318.jpg",
       "library": [
         {
           "language": "",
@@ -527,7 +527,7 @@
       "author": "Timothy Snyder",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/7904800512?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328843543l/6572270._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328843543l/6572270.jpg",
       "library": [
         {
           "language": "",
@@ -544,7 +544,7 @@
       "author": "Malcolm Gaskill",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/7904794827?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1637945266l/56587381._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1637945266l/56587381.jpg",
       "library": [
         {
           "language": "",
@@ -561,7 +561,7 @@
       "author": "Yukio Mishima",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/7904788492?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441790556l/62794._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441790556l/62794.jpg",
       "library": [
         {
           "language": "",
@@ -580,7 +580,7 @@
       "author": "James Baldwin",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/7904785096?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1223664870l/406235._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1223664870l/406235.jpg",
       "library": [
         {
           "language": "Englisch",
@@ -609,7 +609,7 @@
       "author": "Richard  Adams",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/7904781309?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405136931l/76620._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405136931l/76620.jpg",
       "library": [
         {
           "language": "Englisch",
@@ -628,7 +628,7 @@
       "author": "Vince Flynn",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/7848269085?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1510373140l/7959473._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1510373140l/7959473.jpg",
       "library": [
         {
           "language": "",
@@ -645,7 +645,7 @@
       "author": "George Saunders",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/7848262990?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627489209l/53487237._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627489209l/53487237.jpg",
       "library": [
         {
           "language": "Englisch",
@@ -664,7 +664,7 @@
       "author": "Fyodor Dostoevsky",
       "isbn": "",
       "goodreads_url": "https://www.goodreads.com/review/show/7844238360?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382846449l/7144._SY75_.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382846449l/7144.jpg",
       "library": [
         {
           "language": "",

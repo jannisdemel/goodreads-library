@@ -62,6 +62,9 @@ def _parse_entry(entry: dict) -> dict | None:
     # feedparser also exposes these directly on some setups
     cover_url = cover_url or entry.get("book_image_url", "") or entry.get("book_small_image_url", "")
 
+    # Strip Goodreads thumbnail size suffix (e.g. ._SY75_) to get full-res image
+    cover_url = re.sub(r'\._S[XY]\d+_(?=\.[a-z]+$)', '', cover_url)
+
     return {
         "title": title,
         "author": author,
