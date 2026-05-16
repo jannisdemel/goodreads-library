@@ -2,7 +2,7 @@ name: Sync Goodreads → Library
 
 on:
   schedule:
-    - cron: "0 5 * * *"   # daily at 05:00 UTC
+    - cron: "0 5 * * 1"   # weekly on Monday at 05:00 UTC
   workflow_dispatch:        # manual "Run workflow" button on GitHub
 
 permissions:
