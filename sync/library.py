@@ -7,6 +7,7 @@ Adapted from jannisdemel/FindBooks. Added ISBN-first search strategy.
 import json
 import logging
 import re
+from difflib import SequenceMatcher
 from urllib.parse import urlencode, quote_plus
 
 import requests
@@ -41,11 +42,30 @@ def _normalize(s: str) -> str:
 
 
 def _title_score(search_title: str, found_title: str) -> float:
-    a = set(_normalize(search_title).split())
-    b = set(_normalize(found_title).split())
-    if not a or not b:
+    a_words = _normalize(search_title).split()
+    b_words = _normalize(found_title).split()
+    if not a_words or not b_words:
         return 0.0
-    return len(a & b) / len(a | b)
+
+    # Word-level Jaccard (exact matches)
+    a_set, b_set = set(a_words), set(b_words)
+    word_score = len(a_set & b_set) / len(a_set | b_set)
+
+    # Word-pair character similarity: each long search word is matched against
+    # its best counterpart in the found title. Catches transliterations like
+    # Karamazov/Karamasow or Dostoevsky/Dostoevskij without false-positives
+    # from unrelated words happening to share character patterns.
+    long_a = [w for w in a_words if len(w) >= 4]
+    if long_a:
+        best_per_word = [
+            max((SequenceMatcher(None, aw, bw).ratio() for bw in b_words if len(bw) >= 4), default=0.0)
+            for aw in long_a
+        ]
+        word_char_score = sum(best_per_word) / len(best_per_word)
+    else:
+        word_char_score = 0.0
+
+    return max(word_score, word_char_score * 0.6)
 
 
 def _get_availability(session: requests.Session, mednr: str) -> dict:
@@ -141,19 +161,26 @@ def _parse_item_shallow(item) -> dict:
     return {"title": title, "author": author, "url": url, "mednr": mednr}
 
 
-def _run_search(session: requests.Session, query: str) -> list[dict]:
-    params = urlencode({"search": query, "top": "y", "focusModule": "searchmodule"}, quote_via=quote_plus)
-    try:
-        resp = session.get(f"{SEARCH_URL}?{params}", timeout=20)
-        resp.raise_for_status()
-    except requests.RequestException as exc:
-        logger.warning("Library search failed for %r: %s", query, exc)
-        return []
-    if "Keine Verbindung" in resp.text and "oclc-searchmodule-mediumview" not in resp.text:
-        return []
-    soup = BeautifulSoup(resp.text, "lxml")
-    return [p for div in soup.find_all("div", class_="oclc-searchmodule-mediumview")
-            if (p := _parse_item_shallow(div))]
+def _run_search(session: requests.Session, query: str, max_pages: int = 1) -> list[dict]:
+    items = []
+    for page in range(1, max_pages + 1):
+        extra = f"&page={page}" if page > 1 else ""
+        params = urlencode({"search": query, "top": "y", "focusModule": "searchmodule"}, quote_via=quote_plus) + extra
+        try:
+            resp = session.get(f"{SEARCH_URL}?{params}", timeout=20)
+            resp.raise_for_status()
+        except requests.RequestException as exc:
+            logger.warning("Library search failed for %r page %d: %s", query, page, exc)
+            break
+        if "Keine Verbindung" in resp.text and "oclc-searchmodule-mediumview" not in resp.text:
+            break
+        soup = BeautifulSoup(resp.text, "lxml")
+        page_items = [p for div in soup.find_all("div", class_="oclc-searchmodule-mediumview")
+                      if (p := _parse_item_shallow(div))]
+        items.extend(page_items)
+        if len(page_items) < 10:
+            break  # last page reached
+    return items
 
 
 def check_availability(books: list[dict]) -> list[dict]:
@@ -178,7 +205,7 @@ def _check_one(title: str, author: str, isbn: str = "") -> list[dict]:
         query = f"{title} {author}".strip() if author else title
         candidates = _run_search(session, query)
     if not candidates and author:
-        candidates = _run_search(session, author)
+        candidates = _run_search(session, author, max_pages=5)
 
     if not candidates:
         return [_not_found(title, author)]

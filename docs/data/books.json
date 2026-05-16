@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T16:23:32Z",
+  "generated_at": "2026-05-16T16:50:20Z",
   "shelf": "to-read",
   "books": [
     {
@@ -354,14 +354,12 @@
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1729825992l/220341389.jpg",
       "library": [
         {
-          "language": "Englisch",
-          "status": "available",
-          "locations": [
-            "12 Gree / Ausleihbestand (Verfügbar)"
-          ],
-          "url": "https://bibli-open.heidelberg.de/?search=John++Green&top=y&detail=0&focusModule=searchmodule",
-          "library_title": "An abundance of Katherines",
-          "library_author": "John Green"
+          "language": "",
+          "status": "not_at_hauptstelle",
+          "locations": [],
+          "url": "",
+          "library_title": "",
+          "library_author": ""
         }
       ]
     },
@@ -410,11 +408,13 @@
       "library": [
         {
           "language": "",
-          "status": "not_at_hauptstelle",
-          "locations": [],
-          "url": "",
-          "library_title": "",
-          "library_author": ""
+          "status": "unavailable",
+          "locations": [
+            "Dost / Ausleihbestand (Entliehen)"
+          ],
+          "url": "https://bibli-open.heidelberg.de/?search=Fyodor+Dostoevsky&top=y&page=4&detail=36&focusModule=searchmodule",
+          "library_title": "Die Brüder Karamasow",
+          "library_author": "Fedor M. Dostoevskij"
         }
       ]
     },
@@ -435,6 +435,16 @@
           "url": "https://bibli-open.heidelberg.de/?search=Alexandre+Dumas&top=y&detail=5&focusModule=searchmodule",
           "library_title": "Der Graf von Monte Christo",
           "library_author": "Alexandre Dumas"
+        },
+        {
+          "language": "Deutsch, Französisch",
+          "status": "available",
+          "locations": [
+            "Spielfilm G / Ausleihbestand (Verfügbar)"
+          ],
+          "url": "https://bibli-open.heidelberg.de/?search=Alexandre+Dumas&top=y&page=5&detail=46&focusModule=searchmodule",
+          "library_title": "Der Graf von Monte Christo",
+          "library_author": ""
         }
       ]
     },
@@ -565,13 +575,11 @@
       "library": [
         {
           "language": "",
-          "status": "unavailable",
-          "locations": [
-            "Mish / Ausleihbestand (Entliehen)"
-          ],
-          "url": "https://bibli-open.heidelberg.de/?search=Yukio+Mishima&top=y&detail=0&focusModule=searchmodule",
-          "library_title": "Der goldene Pavillon",
-          "library_author": "Yukio Mishima"
+          "status": "not_at_hauptstelle",
+          "locations": [],
+          "url": "",
+          "library_title": "",
+          "library_author": ""
         }
       ]
     },
@@ -667,12 +675,14 @@
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382846449l/7144.jpg",
       "library": [
         {
-          "language": "",
-          "status": "not_at_hauptstelle",
-          "locations": [],
-          "url": "",
-          "library_title": "",
-          "library_author": ""
+          "language": "Deutsch",
+          "status": "available",
+          "locations": [
+            "PB 26 Dost / Ausleihbestand (Verfügbar)"
+          ],
+          "url": "https://bibli-open.heidelberg.de/?search=Fyodor+Dostoevsky&top=y&page=4&detail=31&focusModule=searchmodule",
+          "library_title": "Ich denke immer nur an dich",
+          "library_author": "Fedor M. Dostoevskij"
         }
       ]
     }
