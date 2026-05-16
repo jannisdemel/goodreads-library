@@ -1,0 +1,680 @@
+{
+  "generated_at": "2026-05-16T15:51:37Z",
+  "shelf": "to-read",
+  "books": [
+    {
+      "title": "Zsömle odavan",
+      "author": "László Krasznahorkai",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8585915776?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700734418l/202574604._SY75_.jpg",
+      "library": [
+        {
+          "language": "Deutsch, Deutsch",
+          "status": "unavailable",
+          "locations": [
+            "Kras / Ausleihbestand (Entliehen)",
+            "Kras / Ausleihbestand (Entliehen)",
+            "Kras / Ausleihbestand (Entliehen)"
+          ],
+          "url": "https://bibli-open.heidelberg.de/?search=Zs%c3%b6mle+odavan+L%c3%a1szl%c3%b3+Krasznahorkai&top=y&detail=0&focusModule=searchmodule",
+          "library_title": "Zsömle ist weg",
+          "library_author": "László Krasznahorkai"
+        }
+      ]
+    },
+    {
+      "title": "Flesh",
+      "author": "David Szalay",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8585322369?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1717908661l/214152261._SY75_.jpg",
+      "library": [
+        {
+          "language": "Englisch",
+          "status": "unavailable",
+          "locations": [
+            "12 Szal / Ausleihbestand (Entliehen)"
+          ],
+          "url": "https://bibli-open.heidelberg.de/?search=Flesh+David+Szalay&top=y&detail=0&focusModule=searchmodule",
+          "library_title": "Flesh",
+          "library_author": "David Szalay"
+        }
+      ]
+    },
+    {
+      "title": "Transkription",
+      "author": "Ben Lerner",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8585287743?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1773302946l/249591782._SY75_.jpg",
+      "library": [
+        {
+          "language": "",
+          "status": "not_at_hauptstelle",
+          "locations": [],
+          "url": "",
+          "library_title": "",
+          "library_author": ""
+        }
+      ]
+    },
+    {
+      "title": "Verlorene Schäfchen",
+      "author": "Madeline Cash",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8585249147?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1761783887l/243195002._SY75_.jpg",
+      "library": [
+        {
+          "language": "",
+          "status": "not_found",
+          "locations": [],
+          "url": "",
+          "library_title": "",
+          "library_author": ""
+        }
+      ]
+    },
+    {
+      "title": "The Three-Body Problem (Remembrance of Earth’s Past, #1)",
+      "author": "Liu Cixin",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8564529058?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428227l/20518872._SY75_.jpg",
+      "library": [
+        {
+          "language": "Deutsch",
+          "status": "unavailable",
+          "locations": [
+            "Hörbuch L\n / Ausleihbestand (Entliehen)"
+          ],
+          "url": "https://bibli-open.heidelberg.de/?search=Liu+Cixin&top=y&detail=0&focusModule=searchmodule",
+          "library_title": "Three body problem",
+          "library_author": "Cixin Liu"
+        }
+      ]
+    },
+    {
+      "title": "Small Things Like These",
+      "author": "Claire Keegan",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8508050474?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1734631773l/58662236._SX50_.jpg",
+      "library": [
+        {
+          "language": "Englisch",
+          "status": "available",
+          "locations": [
+            "12 Keeg / Ausleihbestand (Verfügbar)"
+          ],
+          "url": "https://bibli-open.heidelberg.de/?search=Small+Things+Like+These+Claire+Keegan&top=y&detail=0&focusModule=searchmodule",
+          "library_title": "Small things like these",
+          "library_author": "Claire Keegan"
+        }
+      ]
+    },
+    {
+      "title": "Empire Falls",
+      "author": "Richard Russo",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8506905024?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403184884l/187020._SY75_.jpg",
+      "library": [
+        {
+          "language": "",
+          "status": "unavailable",
+          "locations": [
+            "Russ / Ausleihbestand (Entliehen)"
+          ],
+          "url": "https://bibli-open.heidelberg.de/?search=Empire+Falls+Richard+Russo&top=y&detail=0&focusModule=searchmodule",
+          "library_title": "Diese gottverdammten Träume",
+          "library_author": "Richard Russo"
+        }
+      ]
+    },
+    {
+      "title": "There Is No Antimemetics Division",
+      "author": "qntm",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8481182825?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597056415l/54870256._SY75_.jpg",
+      "library": [
+        {
+          "language": "",
+          "status": "not_found",
+          "locations": [],
+          "url": "",
+          "library_title": "",
+          "library_author": ""
+        }
+      ]
+    },
+    {
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8397224464?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546103428l/5297._SY75_.jpg",
+      "library": [
+        {
+          "language": "Englisch",
+          "status": "unavailable",
+          "locations": [
+            "12 Wild / Ausleihbestand (Entliehen)"
+          ],
+          "url": "https://bibli-open.heidelberg.de/?search=The+Picture+of+Dorian+Gray+Oscar+Wilde&top=y&detail=0&focusModule=searchmodule",
+          "library_title": "The picture of Dorian Gray",
+          "library_author": "Oscar Wilde"
+        },
+        {
+          "language": "",
+          "status": "available",
+          "locations": [
+            "Ofk 6 Wild / Ausleihbestand (Verfügbar)"
+          ],
+          "url": "https://bibli-open.heidelberg.de/?search=The+Picture+of+Dorian+Gray+Oscar+Wilde&top=y&detail=3&focusModule=searchmodule",
+          "library_title": "The Picture of Dorian Gray",
+          "library_author": "Oscar Wilde"
+        }
+      ]
+    },
+    {
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8397224188?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522157426l/19063._SY75_.jpg",
+      "library": [
+        {
+          "language": "Englisch",
+          "status": "unavailable",
+          "locations": [
+            "12 Zusa / Ausleihbestand (Entliehen)"
+          ],
+          "url": "https://bibli-open.heidelberg.de/?search=The+Book+Thief+Markus+Zusak&top=y&detail=0&focusModule=searchmodule",
+          "library_title": "The Book Thief",
+          "library_author": "Markus Zusak"
+        }
+      ]
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8397224137?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398034300l/5107._SY75_.jpg",
+      "library": [
+        {
+          "language": "",
+          "status": "available",
+          "locations": [
+            "Spielfilm R / Ausleihbestand (Verfügbar)"
+          ],
+          "url": "https://bibli-open.heidelberg.de/?search=J.D.+Salinger&top=y&detail=3&focusModule=searchmodule",
+          "library_title": "Rebel in the Rye",
+          "library_author": ""
+        }
+      ]
+    },
+    {
+      "title": "The Little Prince",
+      "author": "Antoine de Saint-Exupéry",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8397224116?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367545443l/157993._SY75_.jpg",
+      "library": [
+        {
+          "language": "Englisch",
+          "status": "available",
+          "locations": [
+            "Englisch (ab 12) S / Kinderbücherei (Verfügbar)"
+          ],
+          "url": "https://bibli-open.heidelberg.de/?search=The+Little+Prince+Antoine+de+Saint-Exup%c3%a9ry&top=y&detail=0&focusModule=searchmodule",
+          "library_title": "The Little Prince",
+          "library_author": "Antoinede Saint-Exupéry"
+        },
+        {
+          "language": "",
+          "status": "available",
+          "locations": [
+            "Englisch (ab 12) S / Kinderbücherei (Verfügbar)"
+          ],
+          "url": "https://bibli-open.heidelberg.de/?search=The+Little+Prince+Antoine+de+Saint-Exup%c3%a9ry&top=y&detail=1&focusModule=searchmodule",
+          "library_title": "The Little Prince",
+          "library_author": "Antoinede Saint-Exupéry"
+        }
+      ]
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8397224024?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553383690l/2657._SY75_.jpg",
+      "library": [
+        {
+          "language": "Englisch",
+          "status": "available",
+          "locations": [
+            "12 Lee / Ausleihbestand (Verfügbar)",
+            "12 Lee / Ausleihbestand (Verfügbar)"
+          ],
+          "url": "https://bibli-open.heidelberg.de/?search=To+Kill+a+Mockingbird+Harper+Lee&top=y&detail=1&focusModule=searchmodule",
+          "library_title": "To Kill a Mockingbird",
+          "library_author": "Harper Lee"
+        },
+        {
+          "language": "",
+          "status": "available",
+          "locations": [
+            "PB 21 LEE Schede / Ausleihbestand (Verfügbar)"
+          ],
+          "url": "https://bibli-open.heidelberg.de/?search=To+Kill+a+Mockingbird+Harper+Lee&top=y&detail=2&focusModule=searchmodule",
+          "library_title": "Textanalyse und Interpretation zu Harper Lee, \"To Kill A Mockingbird\"",
+          "library_author": "Hans-Georg Schede"
+        }
+      ]
+    },
+    {
+      "title": "Babel",
+      "author": "R.F. Kuang",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8397223894?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677361825l/57945316._SY75_.jpg",
+      "library": [
+        {
+          "language": "",
+          "status": "not_at_hauptstelle",
+          "locations": [],
+          "url": "",
+          "library_title": "",
+          "library_author": ""
+        }
+      ]
+    },
+    {
+      "title": "I Wrote This for Attention",
+      "author": "Lukas Gage",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8397222518?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738047856l/223777846._SY75_.jpg",
+      "library": [
+        {
+          "language": "Deutsch",
+          "status": "available",
+          "locations": [
+            "Spielfilm C / Ausleihbestand (Verfügbar)"
+          ],
+          "url": "https://bibli-open.heidelberg.de/?search=Lukas+Gage&top=y&detail=0&focusModule=searchmodule",
+          "library_title": "Companion - die perfekte Begleitung",
+          "library_author": ""
+        }
+      ]
+    },
+    {
+      "title": "Burn Book: A Tech Love Story",
+      "author": "Kara Swisher",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8397222219?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1691562956l/195791688._SY75_.jpg",
+      "library": [
+        {
+          "language": "",
+          "status": "not_found",
+          "locations": [],
+          "url": "",
+          "library_title": "",
+          "library_author": ""
+        }
+      ]
+    },
+    {
+      "title": "Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism",
+      "author": "Sarah Wynn-Williams",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8397222122?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1742029683l/223436601._SY75_.jpg",
+      "library": [
+        {
+          "language": "",
+          "status": "not_found",
+          "locations": [],
+          "url": "",
+          "library_title": "",
+          "library_author": ""
+        }
+      ]
+    },
+    {
+      "title": "Everything Is Tuberculosis: The History and Persistence of Our Deadliest Infection",
+      "author": "John  Green",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8397222060?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1729825992l/220341389._SY75_.jpg",
+      "library": [
+        {
+          "language": "Englisch",
+          "status": "available",
+          "locations": [
+            "12 Gree / Ausleihbestand (Verfügbar)"
+          ],
+          "url": "https://bibli-open.heidelberg.de/?search=John++Green&top=y&detail=0&focusModule=searchmodule",
+          "library_title": "An abundance of Katherines",
+          "library_author": "John Green"
+        }
+      ]
+    },
+    {
+      "title": "My Friends",
+      "author": "Fredrik Backman",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8397221472?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1734718045l/217203110._SY75_.jpg",
+      "library": [
+        {
+          "language": "Englisch",
+          "status": "unavailable",
+          "locations": [
+            "12 Back / Ausleihbestand (Entliehen)"
+          ],
+          "url": "https://bibli-open.heidelberg.de/?search=My+Friends+Fredrik+Backman&top=y&detail=1&focusModule=searchmodule",
+          "library_title": "My friends",
+          "library_author": "Fredrik Backman"
+        }
+      ]
+    },
+    {
+      "title": "Song of Solomon",
+      "author": "Toni Morrison",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8397219615?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632283992l/11334._SY75_.jpg",
+      "library": [
+        {
+          "language": "",
+          "status": "not_at_hauptstelle",
+          "locations": [],
+          "url": "",
+          "library_title": "",
+          "library_author": ""
+        }
+      ]
+    },
+    {
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8397219586?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1681758580l/62585959._SY75_.jpg",
+      "library": [
+        {
+          "language": "",
+          "status": "not_at_hauptstelle",
+          "locations": [],
+          "url": "",
+          "library_title": "",
+          "library_author": ""
+        }
+      ]
+    },
+    {
+      "title": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8397219433?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724863997l/7126._SY75_.jpg",
+      "library": [
+        {
+          "language": "",
+          "status": "available",
+          "locations": [
+            "Ogr Duma / Ausleihbestand (Verfügbar)",
+            "Ogr Duma / Ausleihbestand (Verfügbar)"
+          ],
+          "url": "https://bibli-open.heidelberg.de/?search=Alexandre+Dumas&top=y&detail=5&focusModule=searchmodule",
+          "library_title": "Der Graf von Monte Christo",
+          "library_author": "Alexandre Dumas"
+        }
+      ]
+    },
+    {
+      "title": "The Nickel Boys",
+      "author": "Colson Whitehead",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8253395445?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593115396l/42270835._SY75_.jpg",
+      "library": [
+        {
+          "language": "Englisch",
+          "status": "available",
+          "locations": [
+            "Hörbuch Englisch W / Ausleihbestand (Verfügbar)"
+          ],
+          "url": "https://bibli-open.heidelberg.de/?search=The+Nickel+Boys+Colson+Whitehead&top=y&detail=4&focusModule=searchmodule",
+          "library_title": "The Nickel Boys",
+          "library_author": "Colson Whitehead"
+        },
+        {
+          "language": "",
+          "status": "available",
+          "locations": [
+            "Hörbuch W / Ausleihbestand (Verfügbar)"
+          ],
+          "url": "https://bibli-open.heidelberg.de/?search=The+Nickel+Boys+Colson+Whitehead&top=y&detail=1&focusModule=searchmodule",
+          "library_title": "Die Nickel Boys",
+          "library_author": "Colson Whitehead"
+        }
+      ]
+    },
+    {
+      "title": "On the Calculation of Volume I",
+      "author": "Solvej Balle",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8247441688?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1769272700l/208511270._SY75_.jpg",
+      "library": [
+        {
+          "language": "Englisch",
+          "status": "unavailable",
+          "locations": [
+            "12 Ball / Ausleihbestand (Entliehen)"
+          ],
+          "url": "https://bibli-open.heidelberg.de/?search=Solvej+Balle&top=y&detail=1&focusModule=searchmodule",
+          "library_title": "On the calculation of volume",
+          "library_author": "Solvej Balle"
+        }
+      ]
+    },
+    {
+      "title": "'Mama, bitte lern Deutsch' Unser Eingliederungsversuch in eine geschlossene Gesellschaft",
+      "author": "Tahsim Durgun",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8247440782?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1740319477l/228308589._SY75_.jpg",
+      "library": [
+        {
+          "language": "Deutsch",
+          "status": "unavailable",
+          "locations": [
+            "Bestseller-Service / Ausleihbestand (Entliehen)"
+          ],
+          "url": "https://bibli-open.heidelberg.de/?search=Tahsim+Durgun&top=y&detail=1&focusModule=searchmodule",
+          "library_title": "\"Mama, bitte lern Deutsch\"",
+          "library_author": "Tahsim Durgun"
+        }
+      ]
+    },
+    {
+      "title": "requiem",
+      "author": "Alexander Schnickmann",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/7922807483?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1718613025l/214892318._SY75_.jpg",
+      "library": [
+        {
+          "language": "",
+          "status": "not_found",
+          "locations": [],
+          "url": "",
+          "library_title": "",
+          "library_author": ""
+        }
+      ]
+    },
+    {
+      "title": "Bloodlands: Europe Between Hitler and Stalin",
+      "author": "Timothy Snyder",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/7904800512?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328843543l/6572270._SY75_.jpg",
+      "library": [
+        {
+          "language": "",
+          "status": "not_at_hauptstelle",
+          "locations": [],
+          "url": "",
+          "library_title": "",
+          "library_author": ""
+        }
+      ]
+    },
+    {
+      "title": "The Ruin of All Witches: Life and Death in the New World",
+      "author": "Malcolm Gaskill",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/7904794827?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1637945266l/56587381._SY75_.jpg",
+      "library": [
+        {
+          "language": "",
+          "status": "not_found",
+          "locations": [],
+          "url": "",
+          "library_title": "",
+          "library_author": ""
+        }
+      ]
+    },
+    {
+      "title": "Confessions of a Mask",
+      "author": "Yukio Mishima",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/7904788492?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441790556l/62794._SY75_.jpg",
+      "library": [
+        {
+          "language": "",
+          "status": "unavailable",
+          "locations": [
+            "Mish / Ausleihbestand (Entliehen)"
+          ],
+          "url": "https://bibli-open.heidelberg.de/?search=Yukio+Mishima&top=y&detail=0&focusModule=searchmodule",
+          "library_title": "Der goldene Pavillon",
+          "library_author": "Yukio Mishima"
+        }
+      ]
+    },
+    {
+      "title": "Giovanni’s Room",
+      "author": "James Baldwin",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/7904785096?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1223664870l/406235._SY75_.jpg",
+      "library": [
+        {
+          "language": "Englisch",
+          "status": "unavailable",
+          "locations": [
+            "12 Bald / Ausleihbestand (Entliehen)"
+          ],
+          "url": "https://bibli-open.heidelberg.de/?search=James+Baldwin&top=y&detail=2&focusModule=searchmodule",
+          "library_title": "Giovanni's room",
+          "library_author": "James Baldwin"
+        },
+        {
+          "language": "",
+          "status": "available",
+          "locations": [
+            "Hörbuch B / Ausleihbestand (Verfügbar)"
+          ],
+          "url": "https://bibli-open.heidelberg.de/?search=James+Baldwin&top=y&detail=9&focusModule=searchmodule",
+          "library_title": "Giovannis Zimmer",
+          "library_author": "James Baldwin"
+        }
+      ]
+    },
+    {
+      "title": "Watership Down (Watership Down, #1)",
+      "author": "Richard  Adams",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/7904781309?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405136931l/76620._SY75_.jpg",
+      "library": [
+        {
+          "language": "Englisch",
+          "status": "available",
+          "locations": [
+            "12 Adam / Ausleihbestand (Verfügbar)"
+          ],
+          "url": "https://bibli-open.heidelberg.de/?search=Richard++Adams&top=y&detail=0&focusModule=searchmodule",
+          "library_title": "Watership Down",
+          "library_author": "Richard Adams"
+        }
+      ]
+    },
+    {
+      "title": "American Assassin (Mitch Rapp, #1)",
+      "author": "Vince Flynn",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/7848269085?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1510373140l/7959473._SY75_.jpg",
+      "library": [
+        {
+          "language": "",
+          "status": "not_at_hauptstelle",
+          "locations": [],
+          "url": "",
+          "library_title": "",
+          "library_author": ""
+        }
+      ]
+    },
+    {
+      "title": "A Swim in a Pond in the Rain",
+      "author": "George Saunders",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/7848262990?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627489209l/53487237._SY75_.jpg",
+      "library": [
+        {
+          "language": "Englisch",
+          "status": "available",
+          "locations": [
+            "12 Saun / Ausleihbestand (Verfügbar)"
+          ],
+          "url": "https://bibli-open.heidelberg.de/?search=George+Saunders&top=y&detail=0&focusModule=searchmodule",
+          "library_title": "Lincoln in the Bardo",
+          "library_author": "George Saunders"
+        }
+      ]
+    },
+    {
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/7844238360?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382846449l/7144._SY75_.jpg",
+      "library": [
+        {
+          "language": "",
+          "status": "not_at_hauptstelle",
+          "locations": [],
+          "url": "",
+          "library_title": "",
+          "library_author": ""
+        }
+      ]
+    }
+  ]
+}

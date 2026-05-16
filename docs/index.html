@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Reading List @ Stadtbücherei Heidelberg</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>My Reading List</h1>
+    <p class="subtitle">Goodreads "want to read" · Stadtbücherei Heidelberg availability</p>
+    <div class="controls">
+      <div class="filters" id="filters">
+        <button class="filter active" data-filter="all">All</button>
+        <button class="filter" data-filter="available">Available now</button>
+        <button class="filter" data-filter="in_catalog">In catalog</button>
+        <button class="filter" data-filter="not_found">Not in library</button>
+      </div>
+      <a id="sync-btn" class="sync-btn" target="_blank" rel="noopener">Sync now ↗</a>
+    </div>
+    <p class="meta" id="meta"></p>
+  </header>
+
+  <main id="book-list"></main>
+
+  <script src="app.js"></script>
+</body>
+</html>
