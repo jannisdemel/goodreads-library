@@ -3,7 +3,7 @@ const ACTIONS_URL = "https://github.com/jannisdemel/goodreads-library/actions/wo
 
 let allBooks = [];
 let activeFilter = "all";
-let viewMode = localStorage.getItem("viewMode") || "grid";
+let viewMode = localStorage.getItem("viewMode") || "list";
 
 async function init() {
   document.getElementById("sync-btn").href = ACTIONS_URL;
