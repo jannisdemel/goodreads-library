@@ -8,16 +8,20 @@
 </head>
 <body>
   <header>
-    <h1>My Reading List</h1>
-    <p class="subtitle">Goodreads "want to read" · Stadtbücherei Heidelberg availability</p>
-    <div class="controls">
-      <div class="filters" id="filters">
-        <button class="filter active" data-filter="all">All</button>
-        <button class="filter" data-filter="available">Available now</button>
-        <button class="filter" data-filter="in_catalog">In catalog</button>
-        <button class="filter" data-filter="not_found">Not in library</button>
+    <div class="header-top">
+      <h1>My Reading List</h1>
+      <div class="header-actions">
+        <button id="view-toggle" class="view-toggle">☰ List</button>
+        <a id="sync-btn" class="sync-btn" target="_blank" rel="noopener">Sync now ↗</a>
       </div>
-      <a id="sync-btn" class="sync-btn" target="_blank" rel="noopener">Sync now ↗</a>
+    </div>
+    <p class="subtitle">Goodreads "want to read" · Stadtbücherei Heidelberg availability</p>
+    <div class="filters" id="filters">
+      <button class="filter active" data-filter="all">All</button>
+      <button class="filter" data-filter="avail_book">📖 Available as book</button>
+      <button class="filter" data-filter="avail_any">Available (any)</button>
+      <button class="filter" data-filter="in_catalog">In catalog</button>
+      <button class="filter" data-filter="not_found">Not found</button>
     </div>
     <p class="meta" id="meta"></p>
   </header>

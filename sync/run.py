@@ -32,35 +32,20 @@ def main():
     gr_books = fetch_shelf(user_id, shelf)
     logger.info("Got %d books from Goodreads", len(gr_books))
 
-    # Build input list for library checker
     lib_input = [{"title": b["title"], "author": b["author"], "isbn": b["isbn"]} for b in gr_books]
     logger.info("Checking library availability...")
     lib_results = check_availability(lib_input)
 
-    # Group library results by (title, author)
-    lib_by_book: dict[tuple, list] = {}
-    for row in lib_results:
-        key = (row["title"], row["author"])
-        lib_by_book.setdefault(key, []).append({
-            "language": row["language"],
-            "status": row["status"],
-            "locations": row["locations"],
-            "url": row["url"],
-            "library_title": row["library_title"],
-            "library_author": row.get("library_author", ""),
-        })
-
     books_out = []
-    for b in gr_books:
-        key = (b["title"], b["author"])
-        library_rows = lib_by_book.get(key, [{"language": "", "status": "not_found", "locations": [], "url": "", "library_title": "", "library_author": ""}])
+    for gr_book, result in zip(gr_books, lib_results):
         books_out.append({
-            "title": b["title"],
-            "author": b["author"],
-            "isbn": b["isbn"],
-            "goodreads_url": b["goodreads_url"],
-            "cover_url": b["cover_url"],
-            "library": library_rows,
+            "title":        gr_book["title"],
+            "author":       gr_book["author"],
+            "isbn":         gr_book["isbn"],
+            "goodreads_url": gr_book["goodreads_url"],
+            "cover_url":    gr_book["cover_url"],
+            "search_url":   result["search_url"],
+            "library":      result["rows"],
         })
 
     output = {
