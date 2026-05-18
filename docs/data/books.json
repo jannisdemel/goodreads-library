@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T10:00:25Z",
+  "generated_at": "2026-05-18T08:44:31Z",
   "shelf": "to-read",
   "books": [
     {
@@ -1298,7 +1298,7 @@
           "is_bestseller": false,
           "language": "",
           "status": "unavailable",
-          "due_date": "2026-05-15",
+          "due_date": null,
           "reservations": 0,
           "copies_total": 1,
           "locations": [
