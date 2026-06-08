@@ -1,7 +1,52 @@
 {
-  "generated_at": "2026-06-01T10:18:20Z",
+  "generated_at": "2026-06-08T09:23:02Z",
   "shelf": "to-read",
   "books": [
+    {
+      "title": "Normal People",
+      "author": "Sally Rooney",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8668560470?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571423190l/41057294.jpg",
+      "search_url": "https://bibli-open.heidelberg.de/?search=Normal+People+Sally+Rooney&top=y&focusModule=searchmodule",
+      "library": [
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "Englisch",
+          "status": "unavailable",
+          "due_date": "2026-06-12",
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "12 Roon / Ausleihbestand"
+          ],
+          "library_title": "Normal people",
+          "library_author": "Sally Rooney",
+          "url": "https://bibli-open.heidelberg.de/?search=Normal+People+Sally+Rooney&top=y&detail=0&focusModule=searchmodule",
+          "mednr": "0874330"
+        },
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 4,
+          "locations": [
+            "Roon / Ausleihbestand",
+            "Moderne Unterhaltung / Ausleihbestand"
+          ],
+          "library_title": "Normale Menschen",
+          "library_author": "Sally Rooney",
+          "url": "https://bibli-open.heidelberg.de/?search=Normal+People+Sally+Rooney&top=y&detail=1&focusModule=searchmodule",
+          "mednr": "0785281"
+        }
+      ]
+    },
     {
       "title": "Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI",
       "author": "Karen Hao",
@@ -76,23 +121,6 @@
           "match_kind": "work",
           "media_type": "book",
           "is_bestseller": false,
-          "language": "Englisch",
-          "status": "available",
-          "due_date": null,
-          "reservations": 0,
-          "copies_total": 1,
-          "locations": [
-            "12 Corn / Ausleihbestand"
-          ],
-          "library_title": "Flesh And Blood",
-          "library_author": "Patricia Daniels Cornwell",
-          "url": "https://bibli-open.heidelberg.de/?search=Flesh&top=y&detail=3&focusModule=searchmodule",
-          "mednr": "0683871"
-        },
-        {
-          "match_kind": "work",
-          "media_type": "book",
-          "is_bestseller": false,
           "language": "",
           "status": "available",
           "due_date": null,
@@ -103,25 +131,8 @@
           ],
           "library_title": "Both Flesh and Not",
           "library_author": "David Foster Wallace",
-          "url": "https://bibli-open.heidelberg.de/?search=Flesh&top=y&detail=4&focusModule=searchmodule",
+          "url": "https://bibli-open.heidelberg.de/?search=Flesh&top=y&detail=3&focusModule=searchmodule",
           "mednr": "0613401"
-        },
-        {
-          "match_kind": "work",
-          "media_type": "audiobook",
-          "is_bestseller": false,
-          "language": "",
-          "status": "available",
-          "due_date": null,
-          "reservations": 0,
-          "copies_total": 1,
-          "locations": [
-            "Hörbuch Krimi C / Ausleihbestand"
-          ],
-          "library_title": "Ihr eigen Fleisch und Blut",
-          "library_author": "Patricia Daniels Cornwell",
-          "url": "https://bibli-open.heidelberg.de/?search=Flesh&top=y&page=2&detail=12&focusModule=searchmodule",
-          "mednr": "0685038"
         }
       ]
     },
@@ -155,8 +166,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Deutsch",
-          "status": "unavailable",
-          "due_date": "2026-06-24",
+          "status": "available",
+          "due_date": null,
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -226,8 +237,8 @@
           "media_type": "audiobook",
           "is_bestseller": false,
           "language": "Deutsch",
-          "status": "unavailable",
-          "due_date": "2026-06-12",
+          "status": "available",
+          "due_date": null,
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -298,8 +309,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Englisch",
-          "status": "unavailable",
-          "due_date": "2026-06-05",
+          "status": "available",
+          "due_date": null,
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -471,8 +482,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Englisch",
-          "status": "available",
-          "due_date": null,
+          "status": "unavailable",
+          "due_date": "2026-07-04",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -482,23 +493,6 @@
           "library_author": "Jerome D. Salinger",
           "url": "https://bibli-open.heidelberg.de/?search=The+Catcher+in+the+Rye+Salinger&top=y&detail=1&focusModule=searchmodule",
           "mednr": "0602498"
-        },
-        {
-          "match_kind": "about",
-          "media_type": "book",
-          "is_bestseller": false,
-          "language": "",
-          "status": "available",
-          "due_date": null,
-          "reservations": 0,
-          "copies_total": 1,
-          "locations": [
-            "PB 21 SALINGER Hann / Ausleihbestand"
-          ],
-          "library_title": "J. D. Salinger, \"The Catcher in the Rye\"",
-          "library_author": "Dieter Hannack",
-          "url": "https://bibli-open.heidelberg.de/?search=The+Catcher+in+the+Rye+Salinger&top=y&detail=2&focusModule=searchmodule",
-          "mednr": "0766066"
         },
         {
           "match_kind": "work",
@@ -514,7 +508,7 @@
           ],
           "library_title": "Erläuterungen zu Jerome David Salinger, Der Fänger im Roggen (The Catcher in the Rye)",
           "library_author": "Matthias Bode",
-          "url": "https://bibli-open.heidelberg.de/?search=The+Catcher+in+the+Rye+Salinger&top=y&detail=3&focusModule=searchmodule",
+          "url": "https://bibli-open.heidelberg.de/?search=The+Catcher+in+the+Rye+Salinger&top=y&detail=2&focusModule=searchmodule",
           "mednr": "0643987"
         }
       ]
@@ -619,8 +613,25 @@
           ],
           "library_title": "To Kill a Mockingbird",
           "library_author": "Harper Lee",
-          "url": "https://bibli-open.heidelberg.de/?search=To+Kill+a+Mockingbird+Harper+Lee&top=y&detail=1&focusModule=searchmodule",
+          "url": "https://bibli-open.heidelberg.de/?search=To+Kill+a+Mockingbird+Harper+Lee&top=y&detail=2&focusModule=searchmodule",
           "mednr": "0583728"
+        },
+        {
+          "match_kind": "about",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "",
+          "status": "unavailable",
+          "due_date": "2026-07-04",
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "PB 21 LEE Ulm / Ausleihbestand"
+          ],
+          "library_title": "Harper Lee, To kill a mockingbird",
+          "library_author": "Dieter Ulm",
+          "url": "https://bibli-open.heidelberg.de/?search=To+Kill+a+Mockingbird+Harper+Lee&top=y&detail=0&focusModule=searchmodule",
+          "mednr": "0759232"
         },
         {
           "match_kind": "work",
@@ -636,7 +647,7 @@
           ],
           "library_title": "Erläuterungen zu Harper Lee, To Kill a Mockingbird",
           "library_author": "",
-          "url": "https://bibli-open.heidelberg.de/?search=To+Kill+a+Mockingbird+Harper+Lee&top=y&detail=0&focusModule=searchmodule",
+          "url": "https://bibli-open.heidelberg.de/?search=To+Kill+a+Mockingbird+Harper+Lee&top=y&detail=1&focusModule=searchmodule",
           "mednr": "0645583"
         },
         {
@@ -644,8 +655,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "",
-          "status": "available",
-          "due_date": null,
+          "status": "unavailable",
+          "due_date": "2026-07-04",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -653,7 +664,7 @@
           ],
           "library_title": "Textanalyse und Interpretation zu Harper Lee, \"To Kill A Mockingbird\"",
           "library_author": "Hans-Georg Schede",
-          "url": "https://bibli-open.heidelberg.de/?search=To+Kill+a+Mockingbird+Harper+Lee&top=y&detail=2&focusModule=searchmodule",
+          "url": "https://bibli-open.heidelberg.de/?search=To+Kill+a+Mockingbird+Harper+Lee&top=y&detail=3&focusModule=searchmodule",
           "mednr": "0744082"
         }
       ]
@@ -689,8 +700,8 @@
           "media_type": "film",
           "is_bestseller": false,
           "language": "Deutsch",
-          "status": "unavailable",
-          "due_date": "2026-06-19",
+          "status": "available",
+          "due_date": null,
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -700,6 +711,24 @@
           "library_author": "",
           "url": "https://bibli-open.heidelberg.de/?search=Babel&top=y&detail=1&focusModule=searchmodule",
           "mednr": "0807460"
+        },
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 2,
+          "locations": [
+            "Moderne Unterhaltung / Ausleihbestand",
+            "Cusa / Ausleihbestand"
+          ],
+          "library_title": "Babel",
+          "library_author": "Kenah Cusanit",
+          "url": "https://bibli-open.heidelberg.de/?search=Babel&top=y&detail=2&focusModule=searchmodule",
+          "mednr": "0757408"
         },
         {
           "match_kind": "work",
@@ -914,23 +943,6 @@
         },
         {
           "match_kind": "work",
-          "media_type": "book",
-          "is_bestseller": false,
-          "language": "",
-          "status": "unavailable",
-          "due_date": "2026-05-30",
-          "reservations": 0,
-          "copies_total": 1,
-          "locations": [
-            "Duma / Ausleihbestand"
-          ],
-          "library_title": "Der Graf von Monte Christo",
-          "library_author": "Alexandre<père> Dumas",
-          "url": "https://bibli-open.heidelberg.de/?search=Alexandre+Dumas&top=y&page=4&detail=30&focusModule=searchmodule",
-          "mednr": "0780067"
-        },
-        {
-          "match_kind": "work",
           "media_type": "audiobook",
           "is_bestseller": false,
           "language": "",
@@ -943,7 +955,7 @@
           ],
           "library_title": "Der Graf von Monte Christo",
           "library_author": "Alexandre<père> Dumas",
-          "url": "https://bibli-open.heidelberg.de/?search=Alexandre+Dumas&top=y&page=4&detail=33&focusModule=searchmodule",
+          "url": "https://bibli-open.heidelberg.de/?search=Alexandre+Dumas&top=y&page=4&detail=30&focusModule=searchmodule",
           "mednr": "0706986"
         },
         {
@@ -960,7 +972,7 @@
           ],
           "library_title": "Der Graf von Monte Christo",
           "library_author": "Alexandre<père> Dumas",
-          "url": "https://bibli-open.heidelberg.de/?search=Alexandre+Dumas&top=y&page=4&detail=36&focusModule=searchmodule",
+          "url": "https://bibli-open.heidelberg.de/?search=Alexandre+Dumas&top=y&page=4&detail=33&focusModule=searchmodule",
           "mednr": "0469551"
         },
         {
@@ -1013,23 +1025,6 @@
           "library_author": "Alexandre Dumas",
           "url": "https://bibli-open.heidelberg.de/?search=Alexandre+Dumas&top=y&detail=8&focusModule=searchmodule",
           "mednr": "0658709"
-        },
-        {
-          "match_kind": "work",
-          "media_type": "book",
-          "is_bestseller": false,
-          "language": "",
-          "status": "available",
-          "due_date": null,
-          "reservations": 0,
-          "copies_total": 1,
-          "locations": [
-            "Ofm 6 Duma / Ausleihbestand"
-          ],
-          "library_title": "Le Comte de Monte-Cristo",
-          "library_author": "Alexandre Dumas",
-          "url": "https://bibli-open.heidelberg.de/?search=Alexandre+Dumas&top=y&page=3&detail=20&focusModule=searchmodule",
-          "mednr": "0778696"
         }
       ]
     },
@@ -1043,46 +1038,11 @@
       "library": [
         {
           "match_kind": "work",
-          "media_type": "audiobook",
-          "is_bestseller": false,
-          "language": "",
-          "status": "available",
-          "due_date": null,
-          "reservations": 0,
-          "copies_total": 1,
-          "locations": [
-            "Hörbuch W / Ausleihbestand"
-          ],
-          "library_title": "Die Nickel Boys",
-          "library_author": "Colson Whitehead",
-          "url": "https://bibli-open.heidelberg.de/?search=The+Nickel+Boys+Colson+Whitehead&top=y&detail=1&focusModule=searchmodule",
-          "mednr": "0765621"
-        },
-        {
-          "match_kind": "work",
-          "media_type": "book",
-          "is_bestseller": false,
-          "language": "",
-          "status": "available",
-          "due_date": null,
-          "reservations": 0,
-          "copies_total": 2,
-          "locations": [
-            "Whit / Ausleihbestand / Lektorat Wiens",
-            "Whit / Ausleihbestand"
-          ],
-          "library_title": "Die Nickel Boys",
-          "library_author": "Colson Whitehead",
-          "url": "https://bibli-open.heidelberg.de/?search=The+Nickel+Boys+Colson+Whitehead&top=y&detail=2&focusModule=searchmodule",
-          "mednr": "0762439"
-        },
-        {
-          "match_kind": "work",
           "media_type": "book",
           "is_bestseller": false,
           "language": "Englisch",
-          "status": "available",
-          "due_date": null,
+          "status": "unavailable",
+          "due_date": "2026-07-04",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -1090,7 +1050,7 @@
           ],
           "library_title": "The Nickel Boys",
           "library_author": "Colson Whitehead",
-          "url": "https://bibli-open.heidelberg.de/?search=The+Nickel+Boys+Colson+Whitehead&top=y&detail=3&focusModule=searchmodule",
+          "url": "https://bibli-open.heidelberg.de/?search=The+Nickel+Boys+Colson+Whitehead&top=y&detail=1&focusModule=searchmodule",
           "mednr": "0767002"
         },
         {
@@ -1107,7 +1067,7 @@
           ],
           "library_title": "The Nickel Boys",
           "library_author": "Colson Whitehead",
-          "url": "https://bibli-open.heidelberg.de/?search=The+Nickel+Boys+Colson+Whitehead&top=y&detail=4&focusModule=searchmodule",
+          "url": "https://bibli-open.heidelberg.de/?search=The+Nickel+Boys+Colson+Whitehead&top=y&detail=2&focusModule=searchmodule",
           "mednr": "0770030"
         }
       ]
@@ -1205,7 +1165,7 @@
           "language": "Deutsch",
           "status": "unavailable",
           "due_date": "2026-06-13",
-          "reservations": 1,
+          "reservations": 2,
           "copies_total": 3,
           "locations": [
             "Bestseller Sachbuch / Ausleihbestand",
@@ -1325,7 +1285,7 @@
           ],
           "library_title": "Requiem",
           "library_author": "Wolfgang Amadeus Mozart",
-          "url": "https://bibli-open.heidelberg.de/?search=requiem&top=y&detail=6&focusModule=searchmodule",
+          "url": "https://bibli-open.heidelberg.de/?search=requiem&top=y&detail=5&focusModule=searchmodule",
           "mednr": "0738267"
         },
         {
@@ -1342,7 +1302,7 @@
           ],
           "library_title": "Requiem",
           "library_author": "Karl Alfred Loeser",
-          "url": "https://bibli-open.heidelberg.de/?search=requiem&top=y&detail=7&focusModule=searchmodule",
+          "url": "https://bibli-open.heidelberg.de/?search=requiem&top=y&detail=6&focusModule=searchmodule",
           "mednr": "0839454"
         },
         {
@@ -1359,7 +1319,7 @@
           ],
           "library_title": "Requiem",
           "library_author": "Karl Alfred Loeser",
-          "url": "https://bibli-open.heidelberg.de/?search=requiem&top=y&detail=8&focusModule=searchmodule",
+          "url": "https://bibli-open.heidelberg.de/?search=requiem&top=y&detail=7&focusModule=searchmodule",
           "mednr": "0835329"
         },
         {
@@ -1381,23 +1341,6 @@
         },
         {
           "match_kind": "work",
-          "media_type": "book",
-          "is_bestseller": false,
-          "language": "",
-          "status": "available",
-          "due_date": null,
-          "reservations": 0,
-          "copies_total": 1,
-          "locations": [
-            "CD Klassik Berlioz / Ausleihbestand"
-          ],
-          "library_title": "Requiem",
-          "library_author": "Hector Berlioz",
-          "url": "https://bibli-open.heidelberg.de/?search=requiem&top=y&detail=5&focusModule=searchmodule",
-          "mednr": "0763278"
-        },
-        {
-          "match_kind": "work",
           "media_type": "ebook",
           "is_bestseller": false,
           "language": "Deutsch",
@@ -1410,7 +1353,7 @@
           ],
           "library_title": "Requiem",
           "library_author": "Eoin McNamee",
-          "url": "https://bibli-open.heidelberg.de/?search=requiem&top=y&detail=9&focusModule=searchmodule",
+          "url": "https://bibli-open.heidelberg.de/?search=requiem&top=y&detail=8&focusModule=searchmodule",
           "mednr": "0648384"
         }
       ]
@@ -1492,7 +1435,7 @@
           "language": "Englisch",
           "status": "unavailable",
           "due_date": "2026-06-20",
-          "reservations": 0,
+          "reservations": 1,
           "copies_total": 1,
           "locations": [
             "12 Bald / Ausleihbestand"
@@ -1501,23 +1444,6 @@
           "library_author": "James Baldwin",
           "url": "https://bibli-open.heidelberg.de/?search=James+Baldwin&top=y&detail=2&focusModule=searchmodule",
           "mednr": "0802828"
-        },
-        {
-          "match_kind": "work",
-          "media_type": "book",
-          "is_bestseller": false,
-          "language": "",
-          "status": "unavailable",
-          "due_date": "2026-06-23",
-          "reservations": 0,
-          "copies_total": 1,
-          "locations": [
-            "Bald / Ausleihbestand"
-          ],
-          "library_title": "Giovannis Zimmer",
-          "library_author": "James Baldwin",
-          "url": "https://bibli-open.heidelberg.de/?search=James+Baldwin&top=y&page=2&detail=16&focusModule=searchmodule",
-          "mednr": "0777424"
         }
       ]
     },
