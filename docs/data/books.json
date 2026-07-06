@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T09:26:01Z",
+  "generated_at": "2026-07-06T09:00:42Z",
   "shelf": "to-read",
   "books": [
     {
@@ -79,7 +79,7 @@
           "is_bestseller": false,
           "language": "Deutsch, Deutsch",
           "status": "unavailable",
-          "due_date": "2026-07-10",
+          "due_date": "2026-07-21",
           "reservations": 0,
           "copies_total": 3,
           "locations": [
@@ -105,8 +105,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Englisch",
-          "status": "available",
-          "due_date": null,
+          "status": "unavailable",
+          "due_date": "2026-08-04",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -210,8 +210,8 @@
           "media_type": "book",
           "is_bestseller": true,
           "language": "Deutsch",
-          "status": "unavailable",
-          "due_date": "2026-07-01",
+          "status": "available",
+          "due_date": null,
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -228,10 +228,11 @@
           "is_bestseller": true,
           "language": "Deutsch",
           "status": "unavailable",
-          "due_date": "2026-06-26",
-          "reservations": 3,
-          "copies_total": 1,
+          "due_date": "2026-07-30",
+          "reservations": 0,
+          "copies_total": 2,
           "locations": [
+            "Cash / Ausleihbestand",
             "Bestseller / Ausleihbestand"
           ],
           "library_title": "Verlorene Schäfchen",
@@ -326,8 +327,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Englisch",
-          "status": "available",
-          "due_date": null,
+          "status": "unavailable",
+          "due_date": "2026-07-29",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -499,8 +500,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Englisch",
-          "status": "unavailable",
-          "due_date": "2026-07-04",
+          "status": "available",
+          "due_date": null,
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -622,7 +623,7 @@
           "is_bestseller": true,
           "language": "Deutsch",
           "status": "unavailable",
-          "due_date": "2026-07-16",
+          "due_date": "2026-07-21",
           "reservations": 0,
           "copies_total": 3,
           "locations": [
@@ -1059,7 +1060,7 @@
           "is_bestseller": true,
           "language": "Deutsch",
           "status": "unavailable",
-          "due_date": "2026-07-04",
+          "due_date": null,
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -1075,13 +1076,13 @@
           "media_type": "book",
           "is_bestseller": true,
           "language": "Deutsch",
-          "status": "unavailable",
-          "due_date": "2026-06-26",
+          "status": "available",
+          "due_date": null,
           "reservations": 0,
           "copies_total": 3,
           "locations": [
-            "Bestseller Sachbuch / Ausleihbestand",
-            "New Adult Sachbuch D / Ausleihbestand"
+            "New Adult Sachbuch D / Ausleihbestand",
+            "Bestseller Sachbuch / Ausleihbestand"
           ],
           "library_title": "\"Mama, bitte lern Deutsch\"",
           "library_author": "Tahsim Durgun",
@@ -1300,8 +1301,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Deutsch",
-          "status": "unavailable",
-          "due_date": "2026-07-02",
+          "status": "available",
+          "due_date": null,
           "reservations": 0,
           "copies_total": 1,
           "locations": [
