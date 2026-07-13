@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T09:00:42Z",
+  "generated_at": "2026-07-13T08:15:29Z",
   "shelf": "to-read",
   "books": [
     {
@@ -16,7 +16,7 @@
           "is_bestseller": false,
           "language": "Englisch",
           "status": "unavailable",
-          "due_date": "2026-07-10",
+          "due_date": "2026-08-05",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -140,7 +140,7 @@
           "is_bestseller": false,
           "language": "",
           "status": "unavailable",
-          "due_date": "2026-07-09",
+          "due_date": "2026-08-06",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -185,7 +185,7 @@
           "language": "Deutsch",
           "status": "unavailable",
           "due_date": "2026-07-14",
-          "reservations": 1,
+          "reservations": 3,
           "copies_total": 1,
           "locations": [
             "Lern / Ausleihbestand"
@@ -622,13 +622,13 @@
           "media_type": "book",
           "is_bestseller": true,
           "language": "Deutsch",
-          "status": "unavailable",
-          "due_date": "2026-07-21",
+          "status": "available",
+          "due_date": null,
           "reservations": 0,
           "copies_total": 3,
           "locations": [
-            "Bestseller / Ausleihbestand",
-            "Kuan / Ausleihbestand"
+            "Kuan / Ausleihbestand",
+            "Bestseller / Ausleihbestand"
           ],
           "library_title": "Babel",
           "library_author": "Rebecca F. Kuang",
@@ -662,8 +662,8 @@
           "reservations": 0,
           "copies_total": 2,
           "locations": [
-            "Moderne Unterhaltung / Ausleihbestand",
-            "Cusa / Ausleihbestand"
+            "Cusa / Ausleihbestand",
+            "Moderne Unterhaltung / Ausleihbestand"
           ],
           "library_title": "Babel",
           "library_author": "Kenah Cusanit",
@@ -755,8 +755,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Englisch",
-          "status": "available",
-          "due_date": null,
+          "status": "unavailable",
+          "due_date": "2026-08-06",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -829,161 +829,7 @@
       "goodreads_url": "https://www.goodreads.com/review/show/8397219433?utm_medium=api&utm_source=rss",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724863997l/7126.jpg",
       "search_url": "https://bibli-open.heidelberg.de/?search=The+Count+of+Monte+Cristo+Alexandre+Dumas&top=y&focusModule=searchmodule",
-      "library": [
-        {
-          "match_kind": "about",
-          "media_type": "book",
-          "is_bestseller": false,
-          "language": "",
-          "status": "available",
-          "due_date": null,
-          "reservations": 0,
-          "copies_total": 2,
-          "locations": [
-            "Ogr Duma / Ausleihbestand"
-          ],
-          "library_title": "Der Graf von Monte Christo",
-          "library_author": "Alexandre Dumas",
-          "url": "https://bibli-open.heidelberg.de/?search=Alexandre+Dumas&top=y&detail=5&focusModule=searchmodule",
-          "mednr": "0725574"
-        },
-        {
-          "match_kind": "work",
-          "media_type": "ebook",
-          "is_bestseller": false,
-          "language": "Deutsch",
-          "status": "available",
-          "due_date": null,
-          "reservations": 0,
-          "copies_total": 1,
-          "locations": [
-            "eAusleihe"
-          ],
-          "library_title": "Der Graf von Monte Christo",
-          "library_author": "Alexandre Dumas",
-          "url": "https://bibli-open.heidelberg.de/?search=Alexandre+Dumas&top=y&page=2&detail=11&focusModule=searchmodule",
-          "mednr": "0639009"
-        },
-        {
-          "match_kind": "work",
-          "media_type": "ebook",
-          "is_bestseller": false,
-          "language": "Deutsch",
-          "status": "available",
-          "due_date": null,
-          "reservations": 0,
-          "copies_total": 1,
-          "locations": [
-            "eAusleihe"
-          ],
-          "library_title": "Der Graf von Monte Christo",
-          "library_author": "Alexandre Dumas",
-          "url": "https://bibli-open.heidelberg.de/?search=Alexandre+Dumas&top=y&page=2&detail=15&focusModule=searchmodule",
-          "mednr": "0644120"
-        },
-        {
-          "match_kind": "work",
-          "media_type": "book",
-          "is_bestseller": false,
-          "language": "",
-          "status": "available",
-          "due_date": null,
-          "reservations": 0,
-          "copies_total": 1,
-          "locations": [
-            "Duma / Ausleihbestand"
-          ],
-          "library_title": "Der Graf von Monte Christo",
-          "library_author": "Alexandre<père> Dumas",
-          "url": "https://bibli-open.heidelberg.de/?search=Alexandre+Dumas&top=y&page=3&detail=28&focusModule=searchmodule",
-          "mednr": "0780067"
-        },
-        {
-          "match_kind": "work",
-          "media_type": "audiobook",
-          "is_bestseller": false,
-          "language": "",
-          "status": "available",
-          "due_date": null,
-          "reservations": 0,
-          "copies_total": 1,
-          "locations": [
-            "Hörbuch D / Ausleihbestand"
-          ],
-          "library_title": "Der Graf von Monte Christo",
-          "library_author": "Alexandre<père> Dumas",
-          "url": "https://bibli-open.heidelberg.de/?search=Alexandre+Dumas&top=y&page=4&detail=31&focusModule=searchmodule",
-          "mednr": "0706986"
-        },
-        {
-          "match_kind": "work",
-          "media_type": "book",
-          "is_bestseller": false,
-          "language": "",
-          "status": "unavailable",
-          "due_date": "2026-07-17",
-          "reservations": 0,
-          "copies_total": 1,
-          "locations": [
-            "40 Duma / Ausleihbestand"
-          ],
-          "library_title": "Der Graf von Monte Christo",
-          "library_author": "Alexandre<père> Dumas",
-          "url": "https://bibli-open.heidelberg.de/?search=Alexandre+Dumas&top=y&page=4&detail=34&focusModule=searchmodule",
-          "mednr": "0469551"
-        },
-        {
-          "match_kind": "work",
-          "media_type": "book",
-          "is_bestseller": false,
-          "language": "Französisch",
-          "status": "available",
-          "due_date": null,
-          "reservations": 0,
-          "copies_total": 1,
-          "locations": [
-            "Französisch (ab 12) D / Kinderbücherei"
-          ],
-          "library_title": "Le comte de Monte-Cristo",
-          "library_author": "Alexandre Dumas",
-          "url": "https://bibli-open.heidelberg.de/?search=Alexandre+Dumas&top=y&detail=3&focusModule=searchmodule",
-          "mednr": "0750371"
-        },
-        {
-          "match_kind": "work",
-          "media_type": "ebook",
-          "is_bestseller": false,
-          "language": "Französisch",
-          "status": "available",
-          "due_date": null,
-          "reservations": 0,
-          "copies_total": 1,
-          "locations": [
-            "eAusleihe"
-          ],
-          "library_title": "Le comte de Monte-Cristo 2",
-          "library_author": "Alexandre Dumas",
-          "url": "https://bibli-open.heidelberg.de/?search=Alexandre+Dumas&top=y&detail=7&focusModule=searchmodule",
-          "mednr": "0658710"
-        },
-        {
-          "match_kind": "work",
-          "media_type": "ebook",
-          "is_bestseller": false,
-          "language": "Französisch",
-          "status": "available",
-          "due_date": null,
-          "reservations": 0,
-          "copies_total": 1,
-          "locations": [
-            "eAusleihe"
-          ],
-          "library_title": "Le comte de Monte-Cristo 1",
-          "library_author": "Alexandre Dumas",
-          "url": "https://bibli-open.heidelberg.de/?search=Alexandre+Dumas&top=y&detail=8&focusModule=searchmodule",
-          "mednr": "0658709"
-        }
-      ]
+      "library": []
     },
     {
       "title": "The Nickel Boys",
@@ -1059,7 +905,7 @@
           "media_type": "book",
           "is_bestseller": true,
           "language": "Deutsch",
-          "status": "unavailable",
+          "status": "available",
           "due_date": null,
           "reservations": 0,
           "copies_total": 1,
@@ -1076,13 +922,13 @@
           "media_type": "book",
           "is_bestseller": true,
           "language": "Deutsch",
-          "status": "available",
-          "due_date": null,
+          "status": "unavailable",
+          "due_date": "2026-07-30",
           "reservations": 0,
           "copies_total": 3,
           "locations": [
-            "New Adult Sachbuch D / Ausleihbestand",
-            "Bestseller Sachbuch / Ausleihbestand"
+            "Bestseller Sachbuch / Ausleihbestand",
+            "New Adult Sachbuch D / Ausleihbestand"
           ],
           "library_title": "\"Mama, bitte lern Deutsch\"",
           "library_author": "Tahsim Durgun",
@@ -1347,7 +1193,7 @@
           "is_bestseller": false,
           "language": "Englisch",
           "status": "unavailable",
-          "due_date": "2026-07-17",
+          "due_date": "2026-08-14",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
