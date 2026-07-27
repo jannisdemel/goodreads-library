@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T07:57:37Z",
+  "generated_at": "2026-07-27T08:28:59Z",
   "shelf": "to-read",
   "books": [
     {
@@ -16,7 +16,7 @@
           "is_bestseller": false,
           "language": "Englisch",
           "status": "unavailable",
-          "due_date": "2026-08-05",
+          "due_date": "2026-08-22",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -89,6 +89,23 @@
           "library_author": "László Krasznahorkai",
           "url": "https://bibli-open.heidelberg.de/?search=Zs%c3%b6mle+odavan+L%c3%a1szl%c3%b3+Krasznahorkai&top=y&detail=0&focusModule=searchmodule",
           "mednr": "0881554"
+        },
+        {
+          "match_kind": "work",
+          "media_type": "ebook",
+          "is_bestseller": false,
+          "language": "Deutsch",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "eAusleihe"
+          ],
+          "library_title": "Zsömle ist weg",
+          "library_author": "László Krasznahorkai",
+          "url": "https://bibli-open.heidelberg.de/?search=L%c3%a1szl%c3%b3+Krasznahorkai&top=y&detail=4&focusModule=searchmodule",
+          "mednr": "0888107"
         }
       ]
     },
@@ -106,7 +123,7 @@
           "is_bestseller": false,
           "language": "Englisch",
           "status": "unavailable",
-          "due_date": "2026-08-04",
+          "due_date": "2026-09-01",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -184,8 +201,8 @@
           "is_bestseller": false,
           "language": "Deutsch",
           "status": "unavailable",
-          "due_date": null,
-          "reservations": 3,
+          "due_date": "2026-08-18",
+          "reservations": 2,
           "copies_total": 1,
           "locations": [
             "Lern / Ausleihbestand"
@@ -228,7 +245,7 @@
           "is_bestseller": true,
           "language": "Deutsch",
           "status": "unavailable",
-          "due_date": "2026-07-30",
+          "due_date": "2026-08-12",
           "reservations": 1,
           "copies_total": 2,
           "locations": [
@@ -328,7 +345,7 @@
           "is_bestseller": false,
           "language": "Englisch",
           "status": "unavailable",
-          "due_date": "2026-07-29",
+          "due_date": "2026-08-26",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -344,8 +361,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Englisch",
-          "status": "available",
-          "due_date": null,
+          "status": "unavailable",
+          "due_date": "2026-08-19",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -675,8 +692,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Englisch",
-          "status": "available",
-          "due_date": null,
+          "status": "unavailable",
+          "due_date": "2026-08-19",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -766,6 +783,24 @@
           "library_author": "Fredrik Backman",
           "url": "https://bibli-open.heidelberg.de/?search=My+Friends+Fredrik+Backman&top=y&detail=1&focusModule=searchmodule",
           "mednr": "0871337"
+        },
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "Deutsch",
+          "status": "unavailable",
+          "due_date": "2026-08-19",
+          "reservations": 1,
+          "copies_total": 2,
+          "locations": [
+            "Moderne Unterhaltung / Ausleihbestand",
+            "Back / Ausleihbestand"
+          ],
+          "library_title": "Freunde fürs Leben",
+          "library_author": "Fredrik Backman",
+          "url": "https://bibli-open.heidelberg.de/?search=My+Friends+Fredrik+Backman&top=y&detail=2&focusModule=searchmodule",
+          "mednr": "0887727"
         }
       ]
     },
@@ -905,8 +940,8 @@
           "media_type": "book",
           "is_bestseller": true,
           "language": "Deutsch",
-          "status": "available",
-          "due_date": null,
+          "status": "unavailable",
+          "due_date": "2026-08-04",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -968,7 +1003,7 @@
           "is_bestseller": false,
           "language": "",
           "status": "unavailable",
-          "due_date": "2026-08-13",
+          "due_date": null,
           "reservations": 0,
           "copies_total": 1,
           "locations": [
