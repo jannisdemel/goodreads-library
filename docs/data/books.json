@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T08:27:54Z",
+  "generated_at": "2026-08-10T06:09:54Z",
   "shelf": "to-read",
   "books": [
     {
@@ -15,8 +15,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Englisch",
-          "status": "available",
-          "due_date": null,
+          "status": "unavailable",
+          "due_date": "2026-09-02",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -78,9 +78,9 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Deutsch, Deutsch",
-          "status": "available",
-          "due_date": null,
-          "reservations": 0,
+          "status": "unavailable",
+          "due_date": "2026-08-18",
+          "reservations": 1,
           "copies_total": 3,
           "locations": [
             "Kras / Ausleihbestand"
@@ -123,7 +123,7 @@
           "is_bestseller": false,
           "language": "Englisch",
           "status": "unavailable",
-          "due_date": "2026-09-01",
+          "due_date": "2026-09-03",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -157,7 +157,7 @@
           "is_bestseller": false,
           "language": "",
           "status": "unavailable",
-          "due_date": "2026-08-06",
+          "due_date": "2026-09-03",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -201,7 +201,7 @@
           "is_bestseller": false,
           "language": "Deutsch",
           "status": "unavailable",
-          "due_date": "2026-08-18",
+          "due_date": null,
           "reservations": 2,
           "copies_total": 1,
           "locations": [
@@ -361,8 +361,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Englisch",
-          "status": "unavailable",
-          "due_date": "2026-08-19",
+          "status": "available",
+          "due_date": null,
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -693,7 +693,7 @@
           "is_bestseller": false,
           "language": "Englisch",
           "status": "unavailable",
-          "due_date": "2026-08-19",
+          "due_date": "2026-09-16",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -790,6 +790,23 @@
           "is_bestseller": true,
           "language": "Deutsch",
           "status": "unavailable",
+          "due_date": "2026-08-20",
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "Bestseller-Service / Ausleihbestand"
+          ],
+          "library_title": "Freunde fürs Leben",
+          "library_author": "Fredrik Backman",
+          "url": "https://bibli-open.heidelberg.de/?search=My+Friends+Fredrik+Backman&top=y&detail=2&focusModule=searchmodule",
+          "mednr": "0888464"
+        },
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": true,
+          "language": "Deutsch",
+          "status": "unavailable",
           "due_date": "2026-08-19",
           "reservations": 1,
           "copies_total": 3,
@@ -800,7 +817,7 @@
           ],
           "library_title": "Freunde fürs Leben",
           "library_author": "Fredrik Backman",
-          "url": "https://bibli-open.heidelberg.de/?search=My+Friends+Fredrik+Backman&top=y&detail=2&focusModule=searchmodule",
+          "url": "https://bibli-open.heidelberg.de/?search=My+Friends+Fredrik+Backman&top=y&detail=3&focusModule=searchmodule",
           "mednr": "0887727"
         }
       ]
@@ -941,8 +958,8 @@
           "media_type": "book",
           "is_bestseller": true,
           "language": "Deutsch",
-          "status": "unavailable",
-          "due_date": "2026-08-04",
+          "status": "available",
+          "due_date": null,
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -959,7 +976,7 @@
           "is_bestseller": true,
           "language": "Deutsch",
           "status": "unavailable",
-          "due_date": "2026-08-07",
+          "due_date": "2026-08-27",
           "reservations": 0,
           "copies_total": 3,
           "locations": [
@@ -1273,7 +1290,7 @@
           "is_bestseller": false,
           "language": "Englisch",
           "status": "unavailable",
-          "due_date": "2026-08-12",
+          "due_date": "2026-09-09",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
