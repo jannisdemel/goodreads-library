@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T05:33:38Z",
+  "generated_at": "2026-08-24T05:36:13Z",
   "shelf": "to-read",
   "books": [
     {
@@ -32,13 +32,13 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "",
-          "status": "unavailable",
-          "due_date": "2026-08-29",
+          "status": "available",
+          "due_date": null,
           "reservations": 0,
           "copies_total": 4,
           "locations": [
-            "Moderne Unterhaltung / Ausleihbestand",
-            "Roon / Ausleihbestand"
+            "Roon / Ausleihbestand",
+            "Moderne Unterhaltung / Ausleihbestand"
           ],
           "library_title": "Normale Menschen",
           "library_author": "Sally Rooney",
@@ -78,9 +78,9 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Deutsch, Deutsch",
-          "status": "unavailable",
-          "due_date": "2026-08-18",
-          "reservations": 1,
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
           "copies_total": 3,
           "locations": [
             "Kras / Ausleihbestand"
@@ -122,8 +122,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Englisch",
-          "status": "unavailable",
-          "due_date": "2026-09-03",
+          "status": "available",
+          "due_date": null,
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -300,7 +300,7 @@
           "is_bestseller": false,
           "language": "Englisch",
           "status": "unavailable",
-          "due_date": "2026-08-19",
+          "due_date": "2026-09-18",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -430,7 +430,7 @@
           "is_bestseller": false,
           "language": "",
           "status": "unavailable",
-          "due_date": "2026-08-28",
+          "due_date": "2026-09-17",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -898,7 +898,7 @@
           "is_bestseller": false,
           "language": "Englisch",
           "status": "unavailable",
-          "due_date": "2026-08-29",
+          "due_date": "2026-09-26",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
