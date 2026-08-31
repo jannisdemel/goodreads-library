@@ -1,7 +1,140 @@
 {
-  "generated_at": "2026-08-24T05:36:13Z",
+  "generated_at": "2026-08-31T11:21:10Z",
   "shelf": "to-read",
   "books": [
+    {
+      "title": "The Things We Never Say",
+      "author": "Elizabeth Strout",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8890570821?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1771952095l/242082631.jpg",
+      "search_url": "https://bibli-open.heidelberg.de/?search=The+Things+We+Never+Say+Elizabeth+Strout&top=y&focusModule=searchmodule",
+      "library": [
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "Englisch",
+          "status": "unavailable",
+          "due_date": null,
+          "reservations": 3,
+          "copies_total": 1,
+          "locations": [
+            "12 Strou / Ausleihbestand"
+          ],
+          "library_title": "The things we never say",
+          "library_author": "Elizabeth Strout",
+          "url": "https://bibli-open.heidelberg.de/?search=The+Things+We+Never+Say+Elizabeth+Strout&top=y&detail=0&focusModule=searchmodule",
+          "mednr": "0887111"
+        }
+      ]
+    },
+    {
+      "title": "Young Mungo",
+      "author": "Douglas   Stuart",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8890570700?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1637602267l/58891551.jpg",
+      "search_url": "https://bibli-open.heidelberg.de/?search=Young+Mungo+Douglas+Stuart&top=y&focusModule=searchmodule",
+      "library": [
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "Englisch",
+          "status": "unavailable",
+          "due_date": "2026-09-08",
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "12 Stuar / Ausleihbestand"
+          ],
+          "library_title": "Young Mungo",
+          "library_author": "Douglas Stuart",
+          "url": "https://bibli-open.heidelberg.de/?search=Young+Mungo+Douglas+Stuart&top=y&detail=0&focusModule=searchmodule",
+          "mednr": "0833904"
+        },
+        {
+          "match_kind": "work",
+          "media_type": "ebook",
+          "is_bestseller": false,
+          "language": "Deutsch",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "eAusleihe"
+          ],
+          "library_title": "Young Mungo",
+          "library_author": "Douglas Stuart",
+          "url": "https://bibli-open.heidelberg.de/?search=Young+Mungo+Douglas+Stuart&top=y&detail=1&focusModule=searchmodule",
+          "mednr": "0839526"
+        },
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "Deutsch",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "Stuar / Ausleihbestand"
+          ],
+          "library_title": "Young Mungo",
+          "library_author": "Douglas Stuart",
+          "url": "https://bibli-open.heidelberg.de/?search=Young+Mungo+Douglas+Stuart&top=y&detail=2&focusModule=searchmodule",
+          "mednr": "0833858"
+        }
+      ]
+    },
+    {
+      "title": "Shuggie Bain",
+      "author": "Douglas   Stuart",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8890570579?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1602094778l/52741293.jpg",
+      "search_url": "https://bibli-open.heidelberg.de/?search=Shuggie+Bain+Douglas+Stuart&top=y&focusModule=searchmodule",
+      "library": [
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "",
+          "status": "unavailable",
+          "due_date": "2026-09-24",
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "12 Stuar / Ausleihbestand"
+          ],
+          "library_title": "Shuggie Bain",
+          "library_author": "Douglas Stuart",
+          "url": "https://bibli-open.heidelberg.de/?search=Shuggie+Bain+Douglas+Stuart&top=y&detail=0&focusModule=searchmodule",
+          "mednr": "0810266"
+        },
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "Deutsch",
+          "status": "unavailable",
+          "due_date": "2026-09-12",
+          "reservations": 0,
+          "copies_total": 2,
+          "locations": [
+            "Stuar / Ausleihbestand",
+            "Moderne Unterhaltung / Ausleihbestand"
+          ],
+          "library_title": "Shuggie Bain",
+          "library_author": "Douglas Stuart",
+          "url": "https://bibli-open.heidelberg.de/?search=Shuggie+Bain+Douglas+Stuart&top=y&detail=1&focusModule=searchmodule",
+          "mednr": "0803583"
+        }
+      ]
+    },
     {
       "title": "Normal People",
       "author": "Sally Rooney",
@@ -16,7 +149,7 @@
           "is_bestseller": false,
           "language": "Englisch",
           "status": "unavailable",
-          "due_date": "2026-09-02",
+          "due_date": "2026-09-30",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -122,8 +255,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Englisch",
-          "status": "available",
-          "due_date": null,
+          "status": "unavailable",
+          "due_date": "2026-09-24",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -201,7 +334,7 @@
           "is_bestseller": false,
           "language": "Deutsch",
           "status": "unavailable",
-          "due_date": "2026-09-09",
+          "due_date": null,
           "reservations": 1,
           "copies_total": 1,
           "locations": [
@@ -228,7 +361,7 @@
           "is_bestseller": true,
           "language": "Deutsch",
           "status": "unavailable",
-          "due_date": "2026-08-28",
+          "due_date": "2026-09-10",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -299,8 +432,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Englisch",
-          "status": "unavailable",
-          "due_date": "2026-09-18",
+          "status": "available",
+          "due_date": null,
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -500,8 +633,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Englisch",
-          "status": "available",
-          "due_date": null,
+          "status": "unavailable",
+          "due_date": "2026-09-15",
           "reservations": 0,
           "copies_total": 3,
           "locations": [
@@ -518,7 +651,7 @@
           "is_bestseller": false,
           "language": "Englisch",
           "status": "unavailable",
-          "due_date": "2026-09-12",
+          "due_date": "2026-10-13",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -561,8 +694,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Englisch",
-          "status": "available",
-          "due_date": null,
+          "status": "unavailable",
+          "due_date": "2026-09-23",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -612,8 +745,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "",
-          "status": "available",
-          "due_date": null,
+          "status": "unavailable",
+          "due_date": "2026-09-16",
           "reservations": 0,
           "copies_total": 2,
           "locations": [
@@ -637,14 +770,13 @@
         {
           "match_kind": "work",
           "media_type": "book",
-          "is_bestseller": true,
+          "is_bestseller": false,
           "language": "Deutsch",
-          "status": "available",
-          "due_date": null,
+          "status": "unavailable",
+          "due_date": "2026-09-26",
           "reservations": 0,
-          "copies_total": 3,
+          "copies_total": 2,
           "locations": [
-            "Bestseller / Ausleihbestand",
             "Kuan / Ausleihbestand"
           ],
           "library_title": "Babel",
@@ -657,8 +789,8 @@
           "media_type": "film",
           "is_bestseller": false,
           "language": "Deutsch",
-          "status": "available",
-          "due_date": null,
+          "status": "unavailable",
+          "due_date": "2026-09-25",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -679,8 +811,8 @@
           "reservations": 0,
           "copies_total": 2,
           "locations": [
-            "Cusa / Ausleihbestand",
-            "Moderne Unterhaltung / Ausleihbestand"
+            "Moderne Unterhaltung / Ausleihbestand",
+            "Cusa / Ausleihbestand"
           ],
           "library_title": "Babel",
           "library_author": "Kenah Cusanit",
@@ -693,7 +825,7 @@
           "is_bestseller": false,
           "language": "Englisch",
           "status": "unavailable",
-          "due_date": "2026-09-16",
+          "due_date": "2026-10-15",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -790,7 +922,7 @@
           "is_bestseller": true,
           "language": "Deutsch",
           "status": "unavailable",
-          "due_date": "2026-08-20",
+          "due_date": "2026-09-11",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -807,13 +939,13 @@
           "is_bestseller": true,
           "language": "Deutsch",
           "status": "unavailable",
-          "due_date": "2026-08-19",
-          "reservations": 1,
+          "due_date": "2026-09-05",
+          "reservations": 0,
           "copies_total": 3,
           "locations": [
-            "Moderne Unterhaltung / Ausleihbestand",
             "Back / Ausleihbestand",
-            "Bestseller / Ausleihbestand"
+            "Bestseller / Ausleihbestand",
+            "Moderne Unterhaltung / Ausleihbestand"
           ],
           "library_title": "Freunde fürs Leben",
           "library_author": "Fredrik Backman",
@@ -958,8 +1090,8 @@
           "media_type": "book",
           "is_bestseller": true,
           "language": "Deutsch",
-          "status": "unavailable",
-          "due_date": "2026-08-28",
+          "status": "available",
+          "due_date": null,
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -976,7 +1108,7 @@
           "is_bestseller": true,
           "language": "Deutsch",
           "status": "unavailable",
-          "due_date": "2026-08-27",
+          "due_date": "2026-09-04",
           "reservations": 0,
           "copies_total": 3,
           "locations": [
@@ -1262,8 +1394,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "",
-          "status": "available",
-          "due_date": null,
+          "status": "unavailable",
+          "due_date": "2026-09-25",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
