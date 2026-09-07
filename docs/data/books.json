@@ -1,7 +1,175 @@
 {
-  "generated_at": "2026-08-31T11:21:10Z",
+  "generated_at": "2026-09-07T09:57:25Z",
   "shelf": "to-read",
   "books": [
+    {
+      "title": "I'm Thinking of Ending Things",
+      "author": "Iain Reid",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8923365480?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1625603942l/40605223.jpg",
+      "search_url": "https://bibli-open.heidelberg.de/?search=I%27m+Thinking+of+Ending+Things+Iain+Reid&top=y&focusModule=searchmodule",
+      "library": []
+    },
+    {
+      "title": "I Who Have Never Known Men",
+      "author": "Jacqueline Harpman",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8922742363?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649947133l/60811826.jpg",
+      "search_url": "https://bibli-open.heidelberg.de/?search=I+Who+Have+Never+Known+Men+Jacqueline+Harpman&top=y&focusModule=searchmodule",
+      "library": []
+    },
+    {
+      "title": "She Who Remains",
+      "author": "Rene Karabash",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8922741729?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1749174383l/235788705.jpg",
+      "search_url": "https://bibli-open.heidelberg.de/?search=She+Who+Remains+Rene+Karabash&top=y&focusModule=searchmodule",
+      "library": []
+    },
+    {
+      "title": "Eine Vollkommene Leidenschaft",
+      "author": "Annie Ernaux",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8922740749?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454885055l/4532636.jpg",
+      "search_url": "https://bibli-open.heidelberg.de/?search=Eine+Vollkommene+Leidenschaft+Annie+Ernaux&top=y&focusModule=searchmodule",
+      "library": [
+        {
+          "match_kind": "about",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "Deutsch",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 2,
+          "locations": [
+            "Biografien Leben und Schicksal Ernaux / Ausleihbestand"
+          ],
+          "library_title": "Eine Leidenschaft",
+          "library_author": "Annie Ernaux",
+          "url": "https://bibli-open.heidelberg.de/?search=Annie+Ernaux&top=y&page=3&detail=25&focusModule=searchmodule",
+          "mednr": "0852109"
+        },
+        {
+          "match_kind": "about",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "Deutsch",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "Biografien Leben und Schicksal Ernaux / Ausleihbestand"
+          ],
+          "library_title": "Ich komme nicht aus der Dunkelheit raus",
+          "library_author": "Annie Ernaux",
+          "url": "https://bibli-open.heidelberg.de/?search=Annie+Ernaux&top=y&page=3&detail=24&focusModule=searchmodule",
+          "mednr": "0866233"
+        }
+      ]
+    },
+    {
+      "title": "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
+      "author": "John Carreyrou",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8917770522?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523311515l/37976541.jpg",
+      "search_url": "https://bibli-open.heidelberg.de/?search=Bad+Blood%3A+Secrets+and+Lies+in+a+Silicon+Valley+Startup+John+Carreyrou&top=y&focusModule=searchmodule",
+      "library": []
+    },
+    {
+      "title": "Putin's People: How the KGB Took Back Russia and Then Took On the West",
+      "author": "Catherine Belton",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8917769366?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580793536l/23848139.jpg",
+      "search_url": "https://bibli-open.heidelberg.de/?search=Putin%27s+People%3A+How+the+KGB+Took+Back+Russia+and+Then+Took+On+the+West+Catherine+Belton&top=y&focusModule=searchmodule",
+      "library": [
+        {
+          "match_kind": "work",
+          "media_type": "ebook",
+          "is_bestseller": false,
+          "language": "Deutsch",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "eAusleihe"
+          ],
+          "library_title": "Putins Netz - Wie sich der KGB Russland zurückholte und dann den Westen ins Auge fasste",
+          "library_author": "Catherine Belton",
+          "url": "https://bibli-open.heidelberg.de/?search=Catherine+Belton&top=y&detail=1&focusModule=searchmodule",
+          "mednr": "0827880"
+        },
+        {
+          "match_kind": "work",
+          "media_type": "ebook",
+          "is_bestseller": false,
+          "language": "Deutsch",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "eAusleihe"
+          ],
+          "library_title": "Putins Netz - Wie sich der KGB Russland zurückholte und dann den Westen ins Auge fasste",
+          "library_author": "Catherine Belton",
+          "url": "https://bibli-open.heidelberg.de/?search=Catherine+Belton&top=y&detail=2&focusModule=searchmodule",
+          "mednr": "0823051"
+        },
+        {
+          "match_kind": "work",
+          "media_type": "ebook",
+          "is_bestseller": false,
+          "language": "Deutsch",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "eAusleihe"
+          ],
+          "library_title": "Putins Netz - Wie sich der KGB Russland zurückholte und dann den Westen ins Auge fasste",
+          "library_author": "Catherine Belton",
+          "url": "https://bibli-open.heidelberg.de/?search=Catherine+Belton&top=y&detail=3&focusModule=searchmodule",
+          "mednr": "0822148"
+        },
+        {
+          "match_kind": "about",
+          "media_type": "book",
+          "is_bestseller": true,
+          "language": "Deutsch",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 2,
+          "locations": [
+            "Elp 3 Belt / Ausleihbestand",
+            "Bestseller Sachbuch / Ausleihbestand"
+          ],
+          "library_title": "Putins Netz",
+          "library_author": "Catherine Belton",
+          "url": "https://bibli-open.heidelberg.de/?search=Catherine+Belton&top=y&detail=0&focusModule=searchmodule",
+          "mednr": "0818606"
+        }
+      ]
+    },
+    {
+      "title": "Say Nothing: A True Story of Murder and Memory in Northern Ireland",
+      "author": "Patrick Radden Keefe",
+      "isbn": "",
+      "goodreads_url": "https://www.goodreads.com/review/show/8909867974?utm_medium=api&utm_source=rss",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537315266l/40163119.jpg",
+      "search_url": "https://bibli-open.heidelberg.de/?search=Say+Nothing%3A+A+True+Story+of+Murder+and+Memory+in+Northern+Ireland+Patrick+Radden+Keefe&top=y&focusModule=searchmodule",
+      "library": []
+    },
     {
       "title": "The Things We Never Say",
       "author": "Elizabeth Strout",
@@ -16,8 +184,8 @@
           "is_bestseller": false,
           "language": "Englisch",
           "status": "unavailable",
-          "due_date": null,
-          "reservations": 3,
+          "due_date": "2026-09-30",
+          "reservations": 2,
           "copies_total": 1,
           "locations": [
             "12 Strou / Ausleihbestand"
@@ -148,10 +316,10 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Englisch",
-          "status": "unavailable",
-          "due_date": "2026-09-30",
+          "status": "available",
+          "due_date": null,
           "reservations": 0,
-          "copies_total": 1,
+          "copies_total": 2,
           "locations": [
             "12 Roon / Ausleihbestand"
           ],
@@ -170,8 +338,8 @@
           "reservations": 0,
           "copies_total": 4,
           "locations": [
-            "Roon / Ausleihbestand",
-            "Moderne Unterhaltung / Ausleihbestand"
+            "Moderne Unterhaltung / Ausleihbestand",
+            "Roon / Ausleihbestand"
           ],
           "library_title": "Normale Menschen",
           "library_author": "Sally Rooney",
@@ -243,67 +411,6 @@
       ]
     },
     {
-      "title": "Flesh",
-      "author": "David Szalay",
-      "isbn": "",
-      "goodreads_url": "https://www.goodreads.com/review/show/8585322369?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1717908661l/214152261.jpg",
-      "search_url": "https://bibli-open.heidelberg.de/?search=Flesh+David+Szalay&top=y&focusModule=searchmodule",
-      "library": [
-        {
-          "match_kind": "work",
-          "media_type": "book",
-          "is_bestseller": false,
-          "language": "Englisch",
-          "status": "unavailable",
-          "due_date": "2026-09-24",
-          "reservations": 0,
-          "copies_total": 1,
-          "locations": [
-            "12 Szal / Ausleihbestand"
-          ],
-          "library_title": "Flesh",
-          "library_author": "David Szalay",
-          "url": "https://bibli-open.heidelberg.de/?search=Flesh+David+Szalay&top=y&detail=0&focusModule=searchmodule",
-          "mednr": "0874602"
-        },
-        {
-          "match_kind": "work",
-          "media_type": "book",
-          "is_bestseller": false,
-          "language": "",
-          "status": "available",
-          "due_date": null,
-          "reservations": 0,
-          "copies_total": 1,
-          "locations": [
-            "12 Wall / Ausleihbestand"
-          ],
-          "library_title": "Both Flesh and Not",
-          "library_author": "David Foster Wallace",
-          "url": "https://bibli-open.heidelberg.de/?search=Flesh&top=y&detail=3&focusModule=searchmodule",
-          "mednr": "0613401"
-        },
-        {
-          "match_kind": "work",
-          "media_type": "audiobook",
-          "is_bestseller": false,
-          "language": "",
-          "status": "unavailable",
-          "due_date": "2026-09-03",
-          "reservations": 0,
-          "copies_total": 1,
-          "locations": [
-            "Hörbuch Krimi C / Ausleihbestand"
-          ],
-          "library_title": "Ihr eigen Fleisch und Blut",
-          "library_author": "Patricia Daniels Cornwell",
-          "url": "https://bibli-open.heidelberg.de/?search=Flesh&top=y&page=2&detail=10&focusModule=searchmodule",
-          "mednr": "0685038"
-        }
-      ]
-    },
-    {
       "title": "Transkription",
       "author": "Ben Lerner",
       "isbn": "",
@@ -334,8 +441,8 @@
           "is_bestseller": false,
           "language": "Deutsch",
           "status": "unavailable",
-          "due_date": null,
-          "reservations": 1,
+          "due_date": "2026-09-30",
+          "reservations": 0,
           "copies_total": 1,
           "locations": [
             "Lern / Ausleihbestand"
@@ -378,12 +485,12 @@
           "is_bestseller": true,
           "language": "Deutsch",
           "status": "unavailable",
-          "due_date": "2026-08-12",
-          "reservations": 2,
+          "due_date": "2026-10-14",
+          "reservations": 1,
           "copies_total": 2,
           "locations": [
-            "Bestseller / Ausleihbestand",
-            "Cash / Ausleihbestand"
+            "Cash / Ausleihbestand",
+            "Bestseller / Ausleihbestand"
           ],
           "library_title": "Verlorene Schäfchen",
           "library_author": "Madeline Cash",
@@ -607,7 +714,7 @@
           "is_bestseller": false,
           "language": "Englisch",
           "status": "unavailable",
-          "due_date": "2026-09-08",
+          "due_date": "2026-10-01",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -939,7 +1046,7 @@
           "is_bestseller": true,
           "language": "Deutsch",
           "status": "unavailable",
-          "due_date": "2026-09-05",
+          "due_date": "2026-10-01",
           "reservations": 0,
           "copies_total": 3,
           "locations": [
@@ -1107,8 +1214,8 @@
           "media_type": "book",
           "is_bestseller": true,
           "language": "Deutsch",
-          "status": "unavailable",
-          "due_date": "2026-09-04",
+          "status": "available",
+          "due_date": null,
           "reservations": 0,
           "copies_total": 3,
           "locations": [
@@ -1377,8 +1484,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Englisch",
-          "status": "unavailable",
-          "due_date": "2026-09-11",
+          "status": "available",
+          "due_date": null,
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -1422,7 +1529,7 @@
           "is_bestseller": false,
           "language": "Englisch",
           "status": "unavailable",
-          "due_date": "2026-09-09",
+          "due_date": "2026-10-08",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -1468,33 +1575,6 @@
           "library_author": "James Rebanks",
           "url": "https://bibli-open.heidelberg.de/?search=George+Saunders&top=y&detail=9&focusModule=searchmodule",
           "mednr": "0886277"
-        }
-      ]
-    },
-    {
-      "title": "Crime and Punishment",
-      "author": "Fyodor Dostoevsky",
-      "isbn": "",
-      "goodreads_url": "https://www.goodreads.com/review/show/7844238360?utm_medium=api&utm_source=rss",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382846449l/7144.jpg",
-      "search_url": "https://bibli-open.heidelberg.de/?search=Crime+and+Punishment+Fyodor+Dostoevsky&top=y&focusModule=searchmodule",
-      "library": [
-        {
-          "match_kind": "about",
-          "media_type": "book",
-          "is_bestseller": false,
-          "language": "Deutsch",
-          "status": "available",
-          "due_date": null,
-          "reservations": 0,
-          "copies_total": 1,
-          "locations": [
-            "PB 26 Dost / Ausleihbestand"
-          ],
-          "library_title": "Ich denke immer nur an dich",
-          "library_author": "Fedor M. Dostoevskij",
-          "url": "https://bibli-open.heidelberg.de/?search=Fyodor+Dostoevsky&top=y&page=4&detail=31&focusModule=searchmodule",
-          "mednr": "0820243"
         }
       ]
     }
