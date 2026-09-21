@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T10:20:32Z",
+  "generated_at": "2026-09-21T10:25:05Z",
   "shelf": "to-read",
   "books": [
     {
@@ -279,13 +279,13 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Deutsch",
-          "status": "available",
-          "due_date": null,
+          "status": "unavailable",
+          "due_date": "2026-09-24",
           "reservations": 0,
           "copies_total": 2,
           "locations": [
-            "Moderne Unterhaltung / Ausleihbestand",
-            "Stuar / Ausleihbestand"
+            "Stuar / Ausleihbestand",
+            "Moderne Unterhaltung / Ausleihbestand"
           ],
           "library_title": "Shuggie Bain",
           "library_author": "Douglas Stuart",
@@ -371,7 +371,7 @@
           "is_bestseller": false,
           "language": "Deutsch, Deutsch",
           "status": "unavailable",
-          "due_date": "2026-10-01",
+          "due_date": "2026-10-09",
           "reservations": 0,
           "copies_total": 3,
           "locations": [
@@ -432,7 +432,7 @@
           "is_bestseller": false,
           "language": "Deutsch",
           "status": "unavailable",
-          "due_date": "2026-09-30",
+          "due_date": null,
           "reservations": 1,
           "copies_total": 1,
           "locations": [
@@ -458,8 +458,8 @@
           "media_type": "book",
           "is_bestseller": true,
           "language": "Deutsch",
-          "status": "available",
-          "due_date": null,
+          "status": "unavailable",
+          "due_date": "2026-10-02",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -477,7 +477,7 @@
           "language": "Deutsch",
           "status": "unavailable",
           "due_date": "2026-10-08",
-          "reservations": 0,
+          "reservations": 2,
           "copies_total": 2,
           "locations": [
             "Bestseller / Ausleihbestand",
@@ -531,7 +531,7 @@
           "is_bestseller": false,
           "language": "Englisch",
           "status": "unavailable",
-          "due_date": "2026-10-08",
+          "due_date": "2026-10-17",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -731,23 +731,6 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Englisch",
-          "status": "available",
-          "due_date": null,
-          "reservations": 0,
-          "copies_total": 3,
-          "locations": [
-            "12 Sali / Ausleihbestand"
-          ],
-          "library_title": "The Catcher in the Rye",
-          "library_author": "Jerome D. Salinger",
-          "url": "https://bibli-open.heidelberg.de/?search=The+Catcher+in+the+Rye+Salinger&top=y&detail=0&focusModule=searchmodule",
-          "mednr": "0603662"
-        },
-        {
-          "match_kind": "work",
-          "media_type": "book",
-          "is_bestseller": false,
-          "language": "Englisch",
           "status": "unavailable",
           "due_date": "2026-10-13",
           "reservations": 0,
@@ -757,8 +740,25 @@
           ],
           "library_title": "The Catcher in the Rye",
           "library_author": "Jerome D. Salinger",
-          "url": "https://bibli-open.heidelberg.de/?search=The+Catcher+in+the+Rye+Salinger&top=y&detail=1&focusModule=searchmodule",
+          "url": "https://bibli-open.heidelberg.de/?search=The+Catcher+in+the+Rye+Salinger&top=y&detail=0&focusModule=searchmodule",
           "mednr": "0602498"
+        },
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "Englisch",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 3,
+          "locations": [
+            "12 Sali / Ausleihbestand"
+          ],
+          "library_title": "The Catcher in the Rye",
+          "library_author": "Jerome D. Salinger",
+          "url": "https://bibli-open.heidelberg.de/?search=The+Catcher+in+the+Rye+Salinger&top=y&detail=1&focusModule=searchmodule",
+          "mednr": "0603662"
         },
         {
           "match_kind": "work",
@@ -1128,7 +1128,7 @@
           "is_bestseller": false,
           "language": "Englisch",
           "status": "unavailable",
-          "due_date": "2026-09-26",
+          "due_date": "2026-10-27",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -1188,8 +1188,8 @@
           "media_type": "book",
           "is_bestseller": true,
           "language": "Deutsch",
-          "status": "unavailable",
-          "due_date": "2026-09-24",
+          "status": "available",
+          "due_date": null,
           "reservations": 0,
           "copies_total": 1,
           "locations": [
