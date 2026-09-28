@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T10:25:05Z",
+  "generated_at": "2026-09-28T11:26:44Z",
   "shelf": "to-read",
   "books": [
     {
@@ -235,8 +235,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Deutsch",
-          "status": "unavailable",
-          "due_date": "2026-10-10",
+          "status": "available",
+          "due_date": null,
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -263,7 +263,7 @@
           "is_bestseller": false,
           "language": "",
           "status": "unavailable",
-          "due_date": "2026-09-24",
+          "due_date": "2026-10-23",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -279,8 +279,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Deutsch",
-          "status": "unavailable",
-          "due_date": "2026-09-24",
+          "status": "available",
+          "due_date": null,
           "reservations": 0,
           "copies_total": 2,
           "locations": [
@@ -307,8 +307,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Englisch",
-          "status": "unavailable",
-          "due_date": "2026-09-30",
+          "status": "available",
+          "due_date": null,
           "reservations": 0,
           "copies_total": 2,
           "locations": [
@@ -329,8 +329,8 @@
           "reservations": 0,
           "copies_total": 4,
           "locations": [
-            "Moderne Unterhaltung / Ausleihbestand",
-            "Roon / Ausleihbestand"
+            "Roon / Ausleihbestand",
+            "Moderne Unterhaltung / Ausleihbestand"
           ],
           "library_title": "Normale Menschen",
           "library_author": "Sally Rooney",
@@ -370,8 +370,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Deutsch, Deutsch",
-          "status": "unavailable",
-          "due_date": "2026-10-09",
+          "status": "available",
+          "due_date": null,
           "reservations": 0,
           "copies_total": 3,
           "locations": [
@@ -432,8 +432,8 @@
           "is_bestseller": false,
           "language": "Deutsch",
           "status": "unavailable",
-          "due_date": null,
-          "reservations": 1,
+          "due_date": "2026-10-22",
+          "reservations": 0,
           "copies_total": 1,
           "locations": [
             "Lern / Ausleihbestand"
@@ -731,23 +731,6 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Englisch",
-          "status": "unavailable",
-          "due_date": "2026-10-13",
-          "reservations": 0,
-          "copies_total": 1,
-          "locations": [
-            "12 Sali / Ausleihbestand"
-          ],
-          "library_title": "The Catcher in the Rye",
-          "library_author": "Jerome D. Salinger",
-          "url": "https://bibli-open.heidelberg.de/?search=The+Catcher+in+the+Rye+Salinger&top=y&detail=0&focusModule=searchmodule",
-          "mednr": "0602498"
-        },
-        {
-          "match_kind": "work",
-          "media_type": "book",
-          "is_bestseller": false,
-          "language": "Englisch",
           "status": "available",
           "due_date": null,
           "reservations": 0,
@@ -757,8 +740,25 @@
           ],
           "library_title": "The Catcher in the Rye",
           "library_author": "Jerome D. Salinger",
-          "url": "https://bibli-open.heidelberg.de/?search=The+Catcher+in+the+Rye+Salinger&top=y&detail=1&focusModule=searchmodule",
+          "url": "https://bibli-open.heidelberg.de/?search=The+Catcher+in+the+Rye+Salinger&top=y&detail=0&focusModule=searchmodule",
           "mednr": "0603662"
+        },
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "Englisch",
+          "status": "unavailable",
+          "due_date": "2026-10-13",
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "12 Sali / Ausleihbestand"
+          ],
+          "library_title": "The Catcher in the Rye",
+          "library_author": "Jerome D. Salinger",
+          "url": "https://bibli-open.heidelberg.de/?search=The+Catcher+in+the+Rye+Salinger&top=y&detail=1&focusModule=searchmodule",
+          "mednr": "0602498"
         },
         {
           "match_kind": "work",
@@ -793,7 +793,7 @@
           "is_bestseller": false,
           "language": "Englisch",
           "status": "unavailable",
-          "due_date": "2026-09-23",
+          "due_date": "2026-10-22",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -871,7 +871,7 @@
           "is_bestseller": false,
           "language": "Deutsch",
           "status": "unavailable",
-          "due_date": "2026-09-26",
+          "due_date": "2026-10-02",
           "reservations": 0,
           "copies_total": 2,
           "locations": [
@@ -887,8 +887,8 @@
           "media_type": "film",
           "is_bestseller": false,
           "language": "Deutsch",
-          "status": "unavailable",
-          "due_date": "2026-09-25",
+          "status": "available",
+          "due_date": null,
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -1188,8 +1188,8 @@
           "media_type": "book",
           "is_bestseller": true,
           "language": "Deutsch",
-          "status": "available",
-          "due_date": null,
+          "status": "unavailable",
+          "due_date": "2026-10-13",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -1206,7 +1206,7 @@
           "is_bestseller": true,
           "language": "Deutsch",
           "status": "unavailable",
-          "due_date": "2026-10-02",
+          "due_date": "2026-10-08",
           "reservations": 0,
           "copies_total": 3,
           "locations": [
@@ -1250,8 +1250,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "",
-          "status": "available",
-          "due_date": null,
+          "status": "unavailable",
+          "due_date": "2026-10-21",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -1475,8 +1475,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Englisch",
-          "status": "available",
-          "due_date": null,
+          "status": "unavailable",
+          "due_date": "2026-10-21",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -1492,8 +1492,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "",
-          "status": "unavailable",
-          "due_date": "2026-09-25",
+          "status": "available",
+          "due_date": null,
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -1549,25 +1549,7 @@
       "goodreads_url": "https://www.goodreads.com/review/show/7848262990?utm_medium=api&utm_source=rss",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627489209l/53487237.jpg",
       "search_url": "https://bibli-open.heidelberg.de/?search=A+Swim+in+a+Pond+in+the+Rain+George+Saunders&top=y&focusModule=searchmodule",
-      "library": [
-        {
-          "match_kind": "work",
-          "media_type": "ebook",
-          "is_bestseller": false,
-          "language": "Deutsch",
-          "status": "available",
-          "due_date": null,
-          "reservations": 0,
-          "copies_total": 1,
-          "locations": [
-            "eAusleihe"
-          ],
-          "library_title": "Insel am Rand der Welt",
-          "library_author": "James Rebanks",
-          "url": "https://bibli-open.heidelberg.de/?search=George+Saunders&top=y&detail=9&focusModule=searchmodule",
-          "mednr": "0886277"
-        }
-      ]
+      "library": []
     }
   ]
 }
