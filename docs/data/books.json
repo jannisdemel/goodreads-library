@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T11:26:44Z",
+  "generated_at": "2026-10-05T12:02:51Z",
   "shelf": "to-read",
   "books": [
     {
@@ -175,7 +175,7 @@
           "is_bestseller": false,
           "language": "Englisch",
           "status": "unavailable",
-          "due_date": "2026-09-30",
+          "due_date": null,
           "reservations": 2,
           "copies_total": 1,
           "locations": [
@@ -235,8 +235,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Deutsch",
-          "status": "available",
-          "due_date": null,
+          "status": "unavailable",
+          "due_date": "2026-10-28",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -279,8 +279,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Deutsch",
-          "status": "available",
-          "due_date": null,
+          "status": "unavailable",
+          "due_date": "2026-10-15",
           "reservations": 0,
           "copies_total": 2,
           "locations": [
@@ -307,8 +307,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Englisch",
-          "status": "available",
-          "due_date": null,
+          "status": "unavailable",
+          "due_date": "2026-10-09",
           "reservations": 0,
           "copies_total": 2,
           "locations": [
@@ -324,13 +324,13 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "",
-          "status": "available",
-          "due_date": null,
+          "status": "unavailable",
+          "due_date": "2026-10-14",
           "reservations": 0,
           "copies_total": 4,
           "locations": [
-            "Roon / Ausleihbestand",
-            "Moderne Unterhaltung / Ausleihbestand"
+            "Moderne Unterhaltung / Ausleihbestand",
+            "Roon / Ausleihbestand"
           ],
           "library_title": "Normale Menschen",
           "library_author": "Sally Rooney",
@@ -370,8 +370,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Deutsch, Deutsch",
-          "status": "available",
-          "due_date": null,
+          "status": "unavailable",
+          "due_date": "2026-10-23",
           "reservations": 0,
           "copies_total": 3,
           "locations": [
@@ -705,7 +705,7 @@
           "is_bestseller": false,
           "language": "Englisch",
           "status": "unavailable",
-          "due_date": "2026-10-01",
+          "due_date": "2026-10-29",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -871,7 +871,7 @@
           "is_bestseller": false,
           "language": "Deutsch",
           "status": "unavailable",
-          "due_date": "2026-10-02",
+          "due_date": "2026-10-27",
           "reservations": 0,
           "copies_total": 2,
           "locations": [
@@ -1037,7 +1037,7 @@
           "is_bestseller": true,
           "language": "Deutsch",
           "status": "unavailable",
-          "due_date": "2026-10-02",
+          "due_date": "2026-10-30",
           "reservations": 0,
           "copies_total": 3,
           "locations": [
@@ -1207,7 +1207,7 @@
           "language": "Deutsch",
           "status": "unavailable",
           "due_date": "2026-10-08",
-          "reservations": 0,
+          "reservations": 1,
           "copies_total": 3,
           "locations": [
             "Bestseller Sachbuch / Ausleihbestand",
