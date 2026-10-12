@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T12:02:51Z",
+  "generated_at": "2026-10-12T12:44:31Z",
   "shelf": "to-read",
   "books": [
     {
@@ -42,7 +42,7 @@
           ],
           "library_title": "Eine Leidenschaft",
           "library_author": "Annie Ernaux",
-          "url": "https://bibli-open.heidelberg.de/?search=Annie+Ernaux&top=y&page=3&detail=25&focusModule=searchmodule",
+          "url": "https://bibli-open.heidelberg.de/?search=Annie+Ernaux&top=y&page=3&detail=23&focusModule=searchmodule",
           "mednr": "0852109"
         },
         {
@@ -59,7 +59,7 @@
           ],
           "library_title": "Ich komme nicht aus der Dunkelheit raus",
           "library_author": "Annie Ernaux",
-          "url": "https://bibli-open.heidelberg.de/?search=Annie+Ernaux&top=y&page=3&detail=24&focusModule=searchmodule",
+          "url": "https://bibli-open.heidelberg.de/?search=Annie+Ernaux&top=y&page=3&detail=22&focusModule=searchmodule",
           "mednr": "0866233"
         }
       ]
@@ -202,7 +202,7 @@
           "is_bestseller": false,
           "language": "Englisch",
           "status": "unavailable",
-          "due_date": "2026-10-07",
+          "due_date": "2026-11-04",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -308,7 +308,7 @@
           "is_bestseller": false,
           "language": "Englisch",
           "status": "unavailable",
-          "due_date": "2026-10-09",
+          "due_date": "2026-10-31",
           "reservations": 0,
           "copies_total": 2,
           "locations": [
@@ -433,7 +433,7 @@
           "language": "Deutsch",
           "status": "unavailable",
           "due_date": "2026-10-22",
-          "reservations": 0,
+          "reservations": 1,
           "copies_total": 1,
           "locations": [
             "Lern / Ausleihbestand"
@@ -459,7 +459,7 @@
           "is_bestseller": true,
           "language": "Deutsch",
           "status": "unavailable",
-          "due_date": "2026-10-02",
+          "due_date": "2026-10-24",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -476,8 +476,8 @@
           "is_bestseller": true,
           "language": "Deutsch",
           "status": "unavailable",
-          "due_date": "2026-10-08",
-          "reservations": 2,
+          "due_date": "2026-11-05",
+          "reservations": 0,
           "copies_total": 2,
           "locations": [
             "Bestseller / Ausleihbestand",
@@ -704,8 +704,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Englisch",
-          "status": "unavailable",
-          "due_date": "2026-10-29",
+          "status": "available",
+          "due_date": null,
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -748,8 +748,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Englisch",
-          "status": "unavailable",
-          "due_date": "2026-10-13",
+          "status": "available",
+          "due_date": null,
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -887,8 +887,8 @@
           "media_type": "film",
           "is_bestseller": false,
           "language": "Deutsch",
-          "status": "available",
-          "due_date": null,
+          "status": "unavailable",
+          "due_date": "2026-11-04",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -1003,7 +1003,7 @@
           "is_bestseller": false,
           "language": "Englisch",
           "status": "unavailable",
-          "due_date": "2026-10-09",
+          "due_date": "2026-11-07",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -1188,8 +1188,8 @@
           "media_type": "book",
           "is_bestseller": true,
           "language": "Deutsch",
-          "status": "unavailable",
-          "due_date": "2026-10-13",
+          "status": "available",
+          "due_date": null,
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -1206,8 +1206,8 @@
           "is_bestseller": true,
           "language": "Deutsch",
           "status": "unavailable",
-          "due_date": "2026-10-08",
-          "reservations": 1,
+          "due_date": "2026-10-23",
+          "reservations": 0,
           "copies_total": 3,
           "locations": [
             "Bestseller Sachbuch / Ausleihbestand",
@@ -1251,7 +1251,7 @@
           "is_bestseller": false,
           "language": "",
           "status": "unavailable",
-          "due_date": "2026-10-21",
+          "due_date": "2026-11-18",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -1430,8 +1430,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Deutsch",
-          "status": "available",
-          "due_date": null,
+          "status": "unavailable",
+          "due_date": "2026-11-03",
           "reservations": 0,
           "copies_total": 1,
           "locations": [
@@ -1475,8 +1475,8 @@
           "media_type": "book",
           "is_bestseller": false,
           "language": "Englisch",
-          "status": "unavailable",
-          "due_date": "2026-10-21",
+          "status": "available",
+          "due_date": null,
           "reservations": 0,
           "copies_total": 1,
           "locations": [
