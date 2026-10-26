@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T10:29:38Z",
+  "generated_at": "2026-10-26T10:46:10Z",
   "shelf": "to-read",
   "books": [
     {
@@ -81,7 +81,26 @@
       "goodreads_url": "https://www.goodreads.com/review/show/8890570579?utm_medium=api&utm_source=rss",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1602094778l/52741293.jpg",
       "search_url": "https://bibli-open.heidelberg.de/?search=Shuggie+Bain+Douglas+Stuart&top=y&focusModule=searchmodule",
-      "library": []
+      "library": [
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "Deutsch",
+          "status": "unavailable",
+          "due_date": "2026-11-12",
+          "reservations": 0,
+          "copies_total": 2,
+          "locations": [
+            "Stuar / Ausleihbestand",
+            "Moderne Unterhaltung / Ausleihbestand"
+          ],
+          "library_title": "Shuggie Bain",
+          "library_author": "Douglas Stuart",
+          "url": "https://bibli-open.heidelberg.de/?search=Shuggie+Bain+Douglas+Stuart&top=y&detail=0&focusModule=searchmodule",
+          "mednr": "0803583"
+        }
+      ]
     },
     {
       "title": "Normal People",
@@ -90,7 +109,26 @@
       "goodreads_url": "https://www.goodreads.com/review/show/8668560470?utm_medium=api&utm_source=rss",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571423190l/41057294.jpg",
       "search_url": "https://bibli-open.heidelberg.de/?search=Normal+People+Sally+Rooney&top=y&focusModule=searchmodule",
-      "library": []
+      "library": [
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 4,
+          "locations": [
+            "Roon / Ausleihbestand",
+            "Moderne Unterhaltung / Ausleihbestand"
+          ],
+          "library_title": "Normale Menschen",
+          "library_author": "Sally Rooney",
+          "url": "https://bibli-open.heidelberg.de/?search=Normal+People+Sally+Rooney&top=y&detail=0&focusModule=searchmodule",
+          "mednr": "0785281"
+        }
+      ]
     },
     {
       "title": "Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI",
@@ -117,7 +155,25 @@
       "goodreads_url": "https://www.goodreads.com/review/show/8585915776?utm_medium=api&utm_source=rss",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700734418l/202574604.jpg",
       "search_url": "https://bibli-open.heidelberg.de/?search=Zs%C3%B6mle+odavan+L%C3%A1szl%C3%B3+Krasznahorkai&top=y&focusModule=searchmodule",
-      "library": []
+      "library": [
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "Deutsch, Deutsch",
+          "status": "unavailable",
+          "due_date": "2026-11-13",
+          "reservations": 0,
+          "copies_total": 3,
+          "locations": [
+            "Kras / Ausleihbestand"
+          ],
+          "library_title": "Zsömle ist weg",
+          "library_author": "László Krasznahorkai",
+          "url": "https://bibli-open.heidelberg.de/?search=Zs%c3%b6mle+odavan+L%c3%a1szl%c3%b3+Krasznahorkai&top=y&detail=0&focusModule=searchmodule",
+          "mednr": "0881554"
+        }
+      ]
     },
     {
       "title": "Transkription",
@@ -126,7 +182,25 @@
       "goodreads_url": "https://www.goodreads.com/review/show/8585287743?utm_medium=api&utm_source=rss",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1773302946l/249591782.jpg",
       "search_url": "https://bibli-open.heidelberg.de/?search=Transkription+Ben+Lerner&top=y&focusModule=searchmodule",
-      "library": []
+      "library": [
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "Deutsch",
+          "status": "unavailable",
+          "due_date": null,
+          "reservations": 2,
+          "copies_total": 1,
+          "locations": [
+            "Lern / Ausleihbestand"
+          ],
+          "library_title": "Transkription",
+          "library_author": "Ben Lerner",
+          "url": "https://bibli-open.heidelberg.de/?search=Transkription+Ben+Lerner&top=y&detail=0&focusModule=searchmodule",
+          "mednr": "0885288"
+        }
+      ]
     },
     {
       "title": "Verlorene Schäfchen",
@@ -180,7 +254,93 @@
       "goodreads_url": "https://www.goodreads.com/review/show/8397224464?utm_medium=api&utm_source=rss",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546103428l/5297.jpg",
       "search_url": "https://bibli-open.heidelberg.de/?search=The+Picture+of+Dorian+Gray+Oscar+Wilde&top=y&focusModule=searchmodule",
-      "library": []
+      "library": [
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "Englisch",
+          "status": "unavailable",
+          "due_date": "2026-11-17",
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "12 Wild / Ausleihbestand / Literaturscouts"
+          ],
+          "library_title": "The picture of Dorian Gray",
+          "library_author": "Oscar Wilde",
+          "url": "https://bibli-open.heidelberg.de/?search=The+Picture+of+Dorian+Gray+Oscar+Wilde&top=y&detail=0&focusModule=searchmodule",
+          "mednr": "0850604"
+        },
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "Ofk 6 Wild / Ausleihbestand"
+          ],
+          "library_title": "The Picture of Dorian Gray",
+          "library_author": "Oscar Wilde",
+          "url": "https://bibli-open.heidelberg.de/?search=The+Picture+of+Dorian+Gray+Oscar+Wilde&top=y&detail=1&focusModule=searchmodule",
+          "mednr": "0729754"
+        },
+        {
+          "match_kind": "work",
+          "media_type": "ebook",
+          "is_bestseller": false,
+          "language": "Englisch",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "eAusleihe"
+          ],
+          "library_title": "The picture of Dorian Gray",
+          "library_author": "Oscar Wilde",
+          "url": "https://bibli-open.heidelberg.de/?search=The+Picture+of+Dorian+Gray+Oscar+Wilde&top=y&detail=2&focusModule=searchmodule",
+          "mednr": "0658693"
+        },
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "Wild / Ausleihbestand"
+          ],
+          "library_title": "Das Bildnis des Dorian Gray",
+          "library_author": "Oscar Wilde",
+          "url": "https://bibli-open.heidelberg.de/?search=The+Picture+of+Dorian+Gray+Oscar+Wilde&top=y&detail=4&focusModule=searchmodule",
+          "mednr": "0613879"
+        },
+        {
+          "match_kind": "work",
+          "media_type": "ebook",
+          "is_bestseller": false,
+          "language": "Deutsch",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "eAusleihe"
+          ],
+          "library_title": "Das Bildnis des Dorian Gray",
+          "library_author": "Oscar Wilde",
+          "url": "https://bibli-open.heidelberg.de/?search=The+Picture+of+Dorian+Gray+Oscar+Wilde&top=y&detail=5&focusModule=searchmodule",
+          "mednr": "0644021"
+        }
+      ]
     },
     {
       "title": "The Book Thief",
@@ -189,7 +349,25 @@
       "goodreads_url": "https://www.goodreads.com/review/show/8397224188?utm_medium=api&utm_source=rss",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522157426l/19063.jpg",
       "search_url": "https://bibli-open.heidelberg.de/?search=The+Book+Thief+Markus+Zusak&top=y&focusModule=searchmodule",
-      "library": []
+      "library": [
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "Englisch",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "12 Zusa / Ausleihbestand"
+          ],
+          "library_title": "The Book Thief",
+          "library_author": "Markus Zusak",
+          "url": "https://bibli-open.heidelberg.de/?search=The+Book+Thief+Markus+Zusak&top=y&detail=0&focusModule=searchmodule",
+          "mednr": "0727610"
+        }
+      ]
     },
     {
       "title": "The Catcher in the Rye",
@@ -198,7 +376,42 @@
       "goodreads_url": "https://www.goodreads.com/review/show/8397224137?utm_medium=api&utm_source=rss",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398034300l/5107.jpg",
       "search_url": "https://bibli-open.heidelberg.de/?search=The+Catcher+in+the+Rye+Salinger&top=y&focusModule=searchmodule",
-      "library": []
+      "library": [
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "Englisch",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 3,
+          "locations": [
+            "12 Sali / Ausleihbestand"
+          ],
+          "library_title": "The Catcher in the Rye",
+          "library_author": "Jerome D. Salinger",
+          "url": "https://bibli-open.heidelberg.de/?search=The+Catcher+in+the+Rye+Salinger&top=y&detail=0&focusModule=searchmodule",
+          "mednr": "0603662"
+        },
+        {
+          "match_kind": "work",
+          "media_type": "ebook",
+          "is_bestseller": false,
+          "language": "Deutsch",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "eAusleihe"
+          ],
+          "library_title": "Erläuterungen zu Jerome David Salinger, Der Fänger im Roggen (The Catcher in the Rye)",
+          "library_author": "Matthias Bode",
+          "url": "https://bibli-open.heidelberg.de/?search=The+Catcher+in+the+Rye+Salinger&top=y&detail=1&focusModule=searchmodule",
+          "mednr": "0643987"
+        }
+      ]
     },
     {
       "title": "The Little Prince",
@@ -207,7 +420,59 @@
       "goodreads_url": "https://www.goodreads.com/review/show/8397224116?utm_medium=api&utm_source=rss",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367545443l/157993.jpg",
       "search_url": "https://bibli-open.heidelberg.de/?search=The+Little+Prince+Antoine+de+Saint-Exup%C3%A9ry&top=y&focusModule=searchmodule",
-      "library": []
+      "library": [
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "Englisch",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "Englisch (ab 12) S / Kinderbücherei"
+          ],
+          "library_title": "The Little Prince",
+          "library_author": "Antoinede Saint-Exupéry",
+          "url": "https://bibli-open.heidelberg.de/?search=The+Little+Prince+Antoine+de+Saint-Exup%c3%a9ry&top=y&detail=0&focusModule=searchmodule",
+          "mednr": "0720514"
+        },
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "Englisch (ab 12) S / Kinderbücherei"
+          ],
+          "library_title": "The Little Prince",
+          "library_author": "Antoinede Saint-Exupéry",
+          "url": "https://bibli-open.heidelberg.de/?search=The+Little+Prince+Antoine+de+Saint-Exup%c3%a9ry&top=y&detail=1&focusModule=searchmodule",
+          "mednr": "0677464"
+        },
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 2,
+          "locations": [
+            "Kinderfilm (ab 6) K / Kinderbücherei"
+          ],
+          "library_title": "Der kleine Prinz",
+          "library_author": "",
+          "url": "https://bibli-open.heidelberg.de/?search=The+Little+Prince+Antoine+de+Saint-Exup%c3%a9ry&top=y&detail=2&focusModule=searchmodule",
+          "mednr": "0698738"
+        }
+      ]
     },
     {
       "title": "Babel",
@@ -216,7 +481,25 @@
       "goodreads_url": "https://www.goodreads.com/review/show/8397223894?utm_medium=api&utm_source=rss",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677361825l/57945316.jpg",
       "search_url": "https://bibli-open.heidelberg.de/?search=Babel+Kuang&top=y&focusModule=searchmodule",
-      "library": []
+      "library": [
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "Deutsch",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 2,
+          "locations": [
+            "Kuan / Ausleihbestand"
+          ],
+          "library_title": "Babel",
+          "library_author": "Rebecca F. Kuang",
+          "url": "https://bibli-open.heidelberg.de/?search=Babel+Kuang&top=y&detail=0&focusModule=searchmodule",
+          "mednr": "0837528"
+        }
+      ]
     },
     {
       "title": "I Wrote This for Attention",
@@ -261,7 +544,25 @@
       "goodreads_url": "https://www.goodreads.com/review/show/8397221472?utm_medium=api&utm_source=rss",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1734718045l/217203110.jpg",
       "search_url": "https://bibli-open.heidelberg.de/?search=My+Friends+Fredrik+Backman&top=y&focusModule=searchmodule",
-      "library": []
+      "library": [
+        {
+          "match_kind": "work",
+          "media_type": "ebook",
+          "is_bestseller": false,
+          "language": "Deutsch",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "eAusleihe"
+          ],
+          "library_title": "Heikko Deutschmann liest Fredrik Backman \"Ein Mann namens Ove\"",
+          "library_author": "Fredrik Backman",
+          "url": "https://bibli-open.heidelberg.de/?search=Fredrik+Backman&top=y&detail=0&focusModule=searchmodule",
+          "mednr": "0664204"
+        }
+      ]
     },
     {
       "title": "Song of Solomon",
@@ -279,7 +580,42 @@
       "goodreads_url": "https://www.goodreads.com/review/show/8397219586?utm_medium=api&utm_source=rss",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1681758580l/62585959.jpg",
       "search_url": "https://bibli-open.heidelberg.de/?search=The+Brothers+Karamazov+Fyodor+Dostoevsky&top=y&focusModule=searchmodule",
-      "library": []
+      "library": [
+        {
+          "match_kind": "work",
+          "media_type": "ebook",
+          "is_bestseller": false,
+          "language": "Englisch",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "eAusleihe"
+          ],
+          "library_title": "The brothers Karamazov",
+          "library_author": "F Dostoevskij",
+          "url": "https://bibli-open.heidelberg.de/?search=The+Brothers+Karamazov&top=y&detail=0&focusModule=searchmodule",
+          "mednr": "0670356"
+        },
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "Dost / Ausleihbestand"
+          ],
+          "library_title": "Die Brüder Karamasow",
+          "library_author": "Fedor M. Dostoevskij",
+          "url": "https://bibli-open.heidelberg.de/?search=Fyodor+Dostoevsky&top=y&page=3&detail=24&focusModule=searchmodule",
+          "mednr": "0581090"
+        }
+      ]
     },
     {
       "title": "The Count of Monte Cristo",
@@ -288,7 +624,127 @@
       "goodreads_url": "https://www.goodreads.com/review/show/8397219433?utm_medium=api&utm_source=rss",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724863997l/7126.jpg",
       "search_url": "https://bibli-open.heidelberg.de/?search=The+Count+of+Monte+Cristo+Alexandre+Dumas&top=y&focusModule=searchmodule",
-      "library": []
+      "library": [
+        {
+          "match_kind": "about",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 2,
+          "locations": [
+            "Ogr Duma / Ausleihbestand"
+          ],
+          "library_title": "Der Graf von Monte Christo",
+          "library_author": "Alexandre Dumas",
+          "url": "https://bibli-open.heidelberg.de/?search=Alexandre+Dumas&top=y&detail=2&focusModule=searchmodule",
+          "mednr": "0725574"
+        },
+        {
+          "match_kind": "work",
+          "media_type": "ebook",
+          "is_bestseller": false,
+          "language": "Deutsch",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "eAusleihe"
+          ],
+          "library_title": "Der Graf von Monte Christo",
+          "library_author": "Alexandre Dumas",
+          "url": "https://bibli-open.heidelberg.de/?search=Alexandre+Dumas&top=y&detail=8&focusModule=searchmodule",
+          "mednr": "0639009"
+        },
+        {
+          "match_kind": "work",
+          "media_type": "ebook",
+          "is_bestseller": false,
+          "language": "Deutsch",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "eAusleihe"
+          ],
+          "library_title": "Der Graf von Monte Christo",
+          "library_author": "Alexandre Dumas",
+          "url": "https://bibli-open.heidelberg.de/?search=Alexandre+Dumas&top=y&page=2&detail=11&focusModule=searchmodule",
+          "mednr": "0644120"
+        },
+        {
+          "match_kind": "work",
+          "media_type": "audiobook",
+          "is_bestseller": false,
+          "language": "",
+          "status": "unavailable",
+          "due_date": "2026-11-27",
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "Hörbuch D / Ausleihbestand"
+          ],
+          "library_title": "Der Graf von Monte Christo",
+          "library_author": "Alexandre<père> Dumas",
+          "url": "https://bibli-open.heidelberg.de/?search=Alexandre+Dumas&top=y&page=3&detail=22&focusModule=searchmodule",
+          "mednr": "0706986"
+        },
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "40 Duma / Ausleihbestand"
+          ],
+          "library_title": "Der Graf von Monte Christo",
+          "library_author": "Alexandre<père> Dumas",
+          "url": "https://bibli-open.heidelberg.de/?search=Alexandre+Dumas&top=y&page=3&detail=25&focusModule=searchmodule",
+          "mednr": "0469551"
+        },
+        {
+          "match_kind": "work",
+          "media_type": "ebook",
+          "is_bestseller": false,
+          "language": "Französisch",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "eAusleihe"
+          ],
+          "library_title": "Le comte de Monte-Cristo 2",
+          "library_author": "Alexandre Dumas",
+          "url": "https://bibli-open.heidelberg.de/?search=Alexandre+Dumas&top=y&detail=4&focusModule=searchmodule",
+          "mednr": "0658710"
+        },
+        {
+          "match_kind": "work",
+          "media_type": "ebook",
+          "is_bestseller": false,
+          "language": "Französisch",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "eAusleihe"
+          ],
+          "library_title": "Le comte de Monte-Cristo 1",
+          "library_author": "Alexandre Dumas",
+          "url": "https://bibli-open.heidelberg.de/?search=Alexandre+Dumas&top=y&detail=5&focusModule=searchmodule",
+          "mednr": "0658709"
+        }
+      ]
     },
     {
       "title": "The Nickel Boys",
@@ -297,7 +753,25 @@
       "goodreads_url": "https://www.goodreads.com/review/show/8253395445?utm_medium=api&utm_source=rss",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593115396l/42270835.jpg",
       "search_url": "https://bibli-open.heidelberg.de/?search=The+Nickel+Boys+Colson+Whitehead&top=y&focusModule=searchmodule",
-      "library": []
+      "library": [
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "Englisch",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "12 Whit / Ausleihbestand"
+          ],
+          "library_title": "The Nickel Boys",
+          "library_author": "Colson Whitehead",
+          "url": "https://bibli-open.heidelberg.de/?search=The+Nickel+Boys+Colson+Whitehead&top=y&detail=1&focusModule=searchmodule",
+          "mednr": "0767002"
+        }
+      ]
     },
     {
       "title": "'Mama, bitte lern Deutsch' Unser Eingliederungsversuch in eine geschlossene Gesellschaft",
@@ -306,7 +780,43 @@
       "goodreads_url": "https://www.goodreads.com/review/show/8247440782?utm_medium=api&utm_source=rss",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1740319477l/228308589.jpg",
       "search_url": "https://bibli-open.heidelberg.de/?search=%27Mama%2C+bitte+lern+Deutsch%27+Unser+Eingliederungsversuch+in+eine+geschlossene+Gesellschaft+Tahsim+Durgun&top=y&focusModule=searchmodule",
-      "library": []
+      "library": [
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": true,
+          "language": "Deutsch",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "Bestseller-Service / Ausleihbestand"
+          ],
+          "library_title": "\"Mama, bitte lern Deutsch\"",
+          "library_author": "Tahsim Durgun",
+          "url": "https://bibli-open.heidelberg.de/?search=Tahsim+Durgun&top=y&detail=0&focusModule=searchmodule",
+          "mednr": "0871129"
+        },
+        {
+          "match_kind": "about",
+          "media_type": "book",
+          "is_bestseller": true,
+          "language": "Deutsch",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 3,
+          "locations": [
+            "Bestseller Sachbuch / Ausleihbestand",
+            "New Adult Sachbuch D / Ausleihbestand"
+          ],
+          "library_title": "\"Mama, bitte lern Deutsch\"",
+          "library_author": "Tahsim Durgun",
+          "url": "https://bibli-open.heidelberg.de/?search=Tahsim+Durgun&top=y&detail=1&focusModule=searchmodule",
+          "mednr": "0869018"
+        }
+      ]
     },
     {
       "title": "requiem",
@@ -315,7 +825,93 @@
       "goodreads_url": "https://www.goodreads.com/review/show/7922807483?utm_medium=api&utm_source=rss",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1718613025l/214892318.jpg",
       "search_url": "https://bibli-open.heidelberg.de/?search=requiem+Alexander+Schnickmann&top=y&focusModule=searchmodule",
-      "library": []
+      "library": [
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "",
+          "status": "unavailable",
+          "due_date": "2026-11-18",
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "CD Klassik Mozart / Ausleihbestand"
+          ],
+          "library_title": "Requiem",
+          "library_author": "Wolfgang Amadeus Mozart",
+          "url": "https://bibli-open.heidelberg.de/?search=requiem&top=y&detail=0&focusModule=searchmodule",
+          "mednr": "0676320"
+        },
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "CD Klassik Mozart / Ausleihbestand"
+          ],
+          "library_title": "Requiem",
+          "library_author": "Wolfgang Amadeus Mozart",
+          "url": "https://bibli-open.heidelberg.de/?search=requiem&top=y&detail=1&focusModule=searchmodule",
+          "mednr": "0678747"
+        },
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "Deutsch",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "CD Hörspiel (ab 13) H / Jugendbücherei"
+          ],
+          "library_title": "Requiem Teil 2",
+          "library_author": "",
+          "url": "https://bibli-open.heidelberg.de/?search=requiem&top=y&page=2&detail=15&focusModule=searchmodule",
+          "mednr": "0887136"
+        },
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "CD Klassik Fauré / Ausleihbestand"
+          ],
+          "library_title": "Requiem",
+          "library_author": "Gabriel Fauré",
+          "url": "https://bibli-open.heidelberg.de/?search=requiem&top=y&detail=2&focusModule=searchmodule",
+          "mednr": "0676418"
+        },
+        {
+          "match_kind": "work",
+          "media_type": "ebook",
+          "is_bestseller": false,
+          "language": "Deutsch",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "eAusleihe"
+          ],
+          "library_title": "Requiem",
+          "library_author": "Eoin McNamee",
+          "url": "https://bibli-open.heidelberg.de/?search=requiem&top=y&detail=3&focusModule=searchmodule",
+          "mednr": "0648384"
+        }
+      ]
     },
     {
       "title": "Bloodlands: Europe Between Hitler and Stalin",
@@ -360,7 +956,25 @@
       "goodreads_url": "https://www.goodreads.com/review/show/7904781309?utm_medium=api&utm_source=rss",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405136931l/76620.jpg",
       "search_url": "https://bibli-open.heidelberg.de/?search=Watership+Down+Richard+Adams&top=y&focusModule=searchmodule",
-      "library": []
+      "library": [
+        {
+          "match_kind": "work",
+          "media_type": "book",
+          "is_bestseller": false,
+          "language": "Englisch",
+          "status": "available",
+          "due_date": null,
+          "reservations": 0,
+          "copies_total": 1,
+          "locations": [
+            "12 Adam / Ausleihbestand"
+          ],
+          "library_title": "Watership Down",
+          "library_author": "Richard Adams",
+          "url": "https://bibli-open.heidelberg.de/?search=Watership+Down+Richard+Adams&top=y&detail=0&focusModule=searchmodule",
+          "mednr": "0680868"
+        }
+      ]
     },
     {
       "title": "American Assassin (Mitch Rapp, #1)",
